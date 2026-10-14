@@ -1,125 +1,179 @@
 # SmartChord · 智能吉他谱
 
-**把吉他谱截图或 PDF，变成适合自己弹奏、可以边看边听的交互乐谱。**
+**Turn guitar tabs into interactive sheet music you can play, practice, and print.**  
+**把吉他谱截图或 PDF，变成能试听、能练习、能打印的交互六线谱。**
 
-有时找到了一份喜欢的吉他谱，却想换成自己熟悉的指法；有时谱子看得懂，某一段拨弦或扫弦却总是弹不顺。SmartChord 把换调、看谱、试听和分段练习连在一起，帮助你沿着原谱学会一首完整歌曲。
+[中文](#中文) · [English](#english) · [体验示例](#先体验成品) · [安装 SmartChord Skill](#安装-smartchord-skill)
 
-你提供完整原谱，告诉 SmartChord 想用什么指法、变调夹夹在哪一品。它会在核对原谱后，整理整首歌曲的六线谱、和弦指法、歌词与演奏顺序，制作成一个可以直接用浏览器打开的 HTML 文件。
+---
 
-拿到文件后，就可以点击谱面开始播放、单音试听、放慢播放、循环练习，或打印成 A4 纸谱。谱面和必要的吉他音色都放在文件里，保存到本地后无需联网使用。
+## 中文
 
-当前版本：**v0.1.0**。制作新谱通过 Codex 中的 SmartChord skill 完成；日常使用成品只需要浏览器。
+### 让喜欢的吉他谱，更适合自己弹
 
-## 先体验两首完整示例
+找到一份谱子，但它用的不是你熟悉的指法？想听清前奏里的每个音，或把一段难弹的扫弦放慢练习？
 
-第一次使用，可以先下载一首成品，体验看谱、点击播放、主旋律和分段练习：
+**SmartChord 是一个用于 Codex 的制谱 Skill。** 你提供完整的吉他六线谱截图或 PDF，告诉它想用的指法调和变调夹位置，它就可以协助核对原谱、转换指法，并制作一份**完整的交互 HTML 乐谱**。
 
-| 示例 | 下载成品 | 指法与变调夹 |
+制谱在 Codex 中完成。**拿到成品后，只需浏览器**：打开一个 HTML 文件，就能看谱、试听、分段练习，还能打印成 A4 纸谱。
+
+### 先体验成品
+
+不安装 Skill，也能先体验已经制作好的乐谱。
+
+| 示例歌曲 | 乐谱文件 | 演奏设置 |
 | --- | --- | --- |
-| 五月天《仓颉》 | [五月天 - 仓颉.html](outputs/五月天%20-%20仓颉.html) | G 指法，Capo 2；后段升调 |
-| 陈绮贞《太聪明》 | [陈绮贞 - 太聪明.html](outputs/陈绮贞%20-%20太聪明.html) | G 指法，Capo 2 |
+| 五月天《仓颉》 | [下载交互乐谱](outputs/%E4%BA%94%E6%9C%88%E5%A4%A9%20-%20%E4%BB%93%E9%A2%89.html) | G 指法 · Capo 2；后段升调 |
+| 陈绮贞《太聪明》 | [下载交互乐谱](outputs/%E9%99%88%E7%BB%AE%E8%B4%9E%20-%20%E5%A4%AA%E8%81%AA%E6%98%8E.html) | G 指法 · Capo 2 |
 
-**在 GitHub 中点击链接后，点击文件页的下载按钮（Download raw file），保存 HTML，再用浏览器打开。** 文件自带谱面和音色，下载后可以离线使用。打开后点击谱面或“播放”，也可以勾选“主旋律”一起听。
+**体验方法：** 点击上方链接，在 GitHub 文件页面选择 **Download raw file** 下载 `.html`，然后用 Chrome 或其他现代浏览器打开。点击“播放”即可开始试听。文件保存到本地后可以离线使用。
 
-## 从一张谱，到一首可以练习的歌
+### 能做什么？
 
-### 换成适合自己的指法
+| 转换吉他谱 | 练习整首歌曲 |
+| --- | --- |
+| **按自己习惯的指法弹。** 转换和弦，也同步处理六线谱中的旋律音、低音和弦位，而不是只替换和弦名。 | **点击就能听。** 支持吉他试听、单音试听、播放位置跟随，并可开启钢琴主旋律提示音。 |
+| **保留原谱内容。** 尽量保留 picking、扫弦、歌词、节奏、反复和升调；无法确定的地方需要核对。 | **慢下来反复练。** 可以调节 BPM、选择段落、循环播放、从指定位置继续。 |
+| **看清具体按法。** 显示六线谱、和弦图和扫弦方向；需要时可切换原谱与目标指法对照。 | **带走一份纸谱。** 一个 HTML 文件可离线打开，点击“打印 / 导出 PDF”即可按 A4 排版。 |
 
-如果原谱是 C 指法，而你想用 G 指法配合变调夹演奏，SmartChord 会同时处理和弦名称与六线谱里的具体音符，重新安排弦和品位。前奏、间奏、旋律变化与歌曲后段的升调也需要一起保留。
+### 安装 SmartChord Skill
 
-这里有两个容易混淆的概念：**指法调**是你使用哪一套和弦按法，**实际调**是吉他最终发出的声音。例如，用 G 指法、变调夹夹第 2 品，实际发声就是 A 调。制作开始时会先确认这些设置。
+> **只想使用示例乐谱？** 不需要安装。下面的步骤只针对**想把自己的吉他谱做成交互乐谱**的人。
 
-### 看清楚每一处怎么弹
+你需要能在本机运行的 **Codex**（CLI、IDE 扩展或支持本地 Skill 的客户端），以及一份自己的吉他谱。处理 PDF、音频和打印时，还可能需要 Python、Node.js、浏览器或其他本地工具；Codex 会按 [环境说明](skills/smartchord/references/tools.md) 检查所需依赖。
 
-每个和弦名称下方都有对应的基础指法图，优先采用开放和弦、低把位等较容易按的形状。具体的旋律换指仍以六线谱为准。
+**方法一：在 Codex 中安装（推荐先试）**
 
-扫弦用跨弦箭头表示，方向和涉及的弦可以直接看到。需要核对那次扫弦的具体按法时，可以按箭头旁的编号查阅谱后的指法表。原谱中的歌词与人声简谱也会保留，方便对照弹唱。
+打开 Codex，使用内置的 `$skill-installer`，告诉它：
 
-### 听清楚，再跟着练
+```text
+$skill-installer
+请从 https://github.com/simooon15/smartchord
+安装 skills/smartchord 这个 Skill。
+安装后检查能否使用 $smartchord。
+```
 
-点击音符、扫弦箭头、歌词或谱面空白处，即从对应拍点开始连续播放；播放中点击也会跳到该处继续。按住 Option／Alt 再点击品位或箭头，可单独试听。整首播放时，当前位置会在谱面上高亮，并可自动跟随滚动。
+**方法二：手动安装（macOS / Linux）**
 
-遇到不熟悉的段落，可以先降低速度，选中该段并开启循环。当前速度范围为 40–140 BPM，调速会保留对应的音高；也可以拖动进度条或点击谱面，从中间开始练习。
+在终端运行：
 
-默认只播放吉他伴奏。勾选“主旋律”，即可同时听到原谱人声简谱对应的旋律提示音；取消勾选后继续只听伴奏。主旋律使用 Salamander Grand Piano V3 的真实钢琴采样，随指法模式转调，与调速、定位和循环同步，方便找准演唱音高。
+```bash
+git clone https://github.com/simooon15/smartchord.git
+mkdir -p ~/.agents/skills
+cp -R smartchord/skills/smartchord ~/.agents/skills/smartchord
+```
 
-### 留一份随时能打开的乐谱
+安装完成后，目录应包含 `~/.agents/skills/smartchord/SKILL.md`。重新打开 Codex 会话，在输入框中输入 `$smartchord`，或通过 `/skills` 查看。Skill 的本地安装位置参考 [Codex 官方说明](https://developers.openai.com/codex/skills)。
 
-每首歌交付一个完整 HTML，内含谱面、所需音色和原谱资料。电脑上用浏览器打开即可阅读和播放，日常使用不需要启动服务器或另装音色包。
+也可以从仓库下载 [SmartChord Skill 压缩包](outputs/smartchord.zip)，将其中**包含 `SKILL.md` 的完整 `smartchord` 文件夹**放到 `~/.agents/skills/` 下；不要只复制 `SKILL.md`，它还需要其他脚本和资源。
 
-需要纸谱时，点击“打印 / 导出 PDF”，即可按 A4 打印，或通过浏览器另存为 PDF。和弦图、歌词与扫弦指法表会一起保留。
+### 用 SmartChord 制作自己的谱子
 
-## 怎么开始制作
+**1. 准备原谱。** 提供完整、清晰的六线谱截图或 PDF。多张截图尽量保持顺序，别漏掉前奏、间奏、反复记号和最后一页。
 
-### 1. 提供完整原谱
-
-准备清晰的吉他六线谱截图或 PDF，尽量包含所有页面、调号、变调夹位置、反复记号和图例。多张截图请说明顺序；原谱已有的歌词和简谱会一起整理。
-
-### 2. 说清楚想怎么弹
-
-告诉 SmartChord 你希望使用的指法调和变调夹位置。原谱已经清楚标出的设置无需重复说明。
-
-例如，在已安装 SmartChord skill 的 Codex 中附上原谱，发送：
+**2. 告诉它你的弹奏习惯。** 在 Codex 中附上文件，并发送：
 
 ```text
 $smartchord
-请把这份完整吉他谱制作成交互乐谱。
-我想用 G 指法，变调夹夹第 2 品，实际 A 调。
-保留原谱的音符、节奏、歌词、反复和升调。
-如果有无法保留原八度的地方，请先让我选择。
-最后给我一个可以离线使用、支持 A4 打印的完整 HTML。
+请把我上传的完整吉他谱做成一份交互六线谱。
+我想使用 G 调指法，变调夹夹第 2 品（实际 A 调）。
+请保留原谱的旋律、节奏、分解和弦、扫弦、歌词和升调。
+不要只替换和弦名称，也不要用通用伴奏型覆盖原谱。
+最后交付一个可离线播放、支持 A4 打印的完整 HTML 文件。
 ```
 
-如果你只知道想唱的实际调，也可以先说出实际调，再选择合适的指法和变调夹组合。
+**3. 核对关键问题。** 如果原谱记号不清楚、原调与夹位冲突，或某些音无法在新指法下保持原八度，SmartChord 会说明情况，必要时请你选择。它不会把不确定的内容直接当作正确结果。
 
-### 3. 核对后获得成品
+**4. 打开成品开始练。** 保存最终 `.html`，直接用浏览器打开即可，无需启动 SmartChord 或本地服务器。要打印时点击页面里的 **“打印 / 导出 PDF”**，在浏览器打印窗口选择 A4 或“另存为 PDF”。
 
-制谱时会逐页核对原谱，整理音符与演奏顺序，再完成转调、指法安排、试听和打印检查。影响音高或节奏的不清楚之处会单独确认。
+### 你需要知道的事
 
-转调后，部分低音或同时发声的音可能无法在目标指法下保留原八度。遇到这种情况，会说明原因，让你选择调整设置或允许八度变化；获得允许后的变化会在成品中逐项标明。
+SmartChord **不是上传文件后就能保证完全正确的自动识谱网站**。制谱过程需要 Codex 读取原谱、调用工具，并核对不清楚的音符与记号。目前以**标准六弦调弦**为基础；复杂声部、特殊调弦或特殊奏法可能需要额外处理。
 
-完成后，你会收到一份完整的歌曲 HTML。后续想改谱，可以用原谱小节号、段落或截图说明位置，再更新这份歌曲。
+目标指法不一定能保留所有原来的八度；如果必须做八度调整，成品会标明。两首示例做过浏览器、音频和 A4 打印的自动检查，**但不能把这些检查等同于人耳试听或实际弹奏验收**。
 
-## 拿到文件后怎么用
+示例曲谱及吉他音色的公开再分发权限仍需核实。请尊重原谱和音色的版权。钢琴主旋律使用的 [Salamander Grand Piano V3](https://github.com/sfzinstruments/SalamanderGrandPiano) 按 CC BY 3.0 署名。
 
-1. **打开乐谱。** 将 HTML 保存到本地，双击或拖进浏览器。先点击播放或音符，浏览器才会开始发声。
-2. **确认指法与夹位。** 按页面标示夹好变调夹，六线谱数字表示相对夹位的品位。“原谱指法”和“目标指法”可切换对照。
-3. **先练一段。** 从段落菜单选择要练的位置，降低 BPM，勾选“段落循环”。选择“整首”时，也可以循环整首歌曲。
-4. **从想练的位置开始。** 点击谱面对应位置即可连续播放；按住 Option／Alt 点击品位或箭头可单独试听。电脑的播放／暂停媒体键可控制播放，页面内也可按空格键切换（输入框、菜单和按钮焦点不拦截）。谱面跟随可以随时关闭；需要旋律引导时勾选“主旋律”。
-5. **按需打印。** 选择想打印的指法模式，点击“打印 / 导出 PDF”，选择 A4 并检查预览；需要时关闭浏览器页眉页脚。
+### 项目文档
 
-基础指法图中的 **× 表示不弹，○ 表示空弦**。旋律变化看六线谱，扫弦具体按法查编号表。原谱资料和八度调整说明可以在页面下方展开。
+- [SmartChord Skill](skills/smartchord/SKILL.md)：Skill 的实际工作流程。
+- [环境与工具说明](skills/smartchord/references/tools.md)：运行与依赖。
+- [产品需求文档](docs/PRD.md)：产品目标和功能定义。
+- [项目状态](docs/PROJECT_STATE.md)：当前实现、验证情况与已知限制。
 
-谱面按窗口的可用宽度与小节密度自动分行：手机通常一行一小节，宽窗口可以显示更多小节；调整窗口或横竖屏切换时会重新排版。A4 打印使用独立的纸谱排版。手机能否直接从文件管理器打开 HTML 取决于系统和浏览器，实体 iPhone 尚未完成验收。整曲播放切入后台后会暂停。
+**当前版本：v0.1.0** · [GitHub 仓库](https://github.com/simooon15/smartchord)
 
-首次打开先点击一次谱面或播放按钮，授权浏览器发声。系统媒体键通过浏览器 Media Session 接入；按键是否被交给此页面由系统和浏览器的媒体会话路由决定，实体键尚未实测。
+---
 
-## 示例的谱面与核查记录
+## English
 
-两份示例都支持原谱／目标指法切换、逐音试听、段落循环、主旋律开关和内嵌原谱。
+### Your guitar tabs, made playable
 
-- **五月天《仓颉》**：G 指法、Capo 2，实际 A 调；后段升至 A 指法，实际 B 调。67 个原谱小节展开为 93 个演奏小节，76 BPM。A4 共 10 页（8 页谱面、2 页扫弦指法表）；221 个原谱音事件有显式八度调整，可在文件内查看。
-- **陈绮贞《太聪明》**：G 指法、Capo 2，实际 A 调。71 小节，68 BPM，无八度调整；A4 共 12 页（11 页谱面、1 页琶音指法表）。部分段落需要高把位或横按，具体旋律以六线谱为准。
+SmartChord is a **Codex skill** that helps turn guitar tab screenshots or PDFs into **interactive, offline HTML sheet music**. Supply the original score, choose your preferred chord shapes and capo position, and get a song you can read, listen to, practise section by section, and print.
 
-两曲已有浏览器、离线播放、自动音频和实际 A4 打印检查记录；人耳试听与实际演奏接受仍需单独确认。
+**Making a score requires Codex and the skill. Playing a finished HTML file only requires a browser.**
 
-## 使用前了解这些范围
+### Try it first
 
-SmartChord v0.1.0 以**标准六弦吉他调弦**为基础。特殊调弦、复杂声部和特殊装饰奏法，需要先核实并按曲目适配。
+| Song | Interactive score | Guitar setup |
+| --- | --- | --- |
+| Mayday — Cang Jie | [Download HTML](outputs/%E4%BA%94%E6%9C%88%E5%A4%A9%20-%20%E4%BB%93%E9%A2%89.html) | G shapes · Capo 2; later key change |
+| Cheer Chen — Too Smart | [Download HTML](outputs/%E9%99%88%E7%BB%AE%E8%B4%9E%20-%20%E5%A4%AA%E8%81%AA%E6%98%8E.html) | G shapes · Capo 2 |
 
-制谱需要结合视觉识谱与人工核查，目前没有上传后即可自动可靠识谱的独立网站。最终 HTML 可以在已制作好的原谱和目标模式之间切换；要换成第三种指法或修改内容，需要回到制谱流程处理。
+Open a song link, choose **Download raw file** on GitHub, and open the saved HTML in a modern browser. Playback works offline.
 
-成品保留原谱与音色来源。若要公开分发，需要确认谱源和音色的使用权限；吉他采样来源尚无明确的公开再分发许可证；钢琴采用 [Salamander Grand Piano V3](https://github.com/sfzinstruments/SalamanderGrandPiano)，作者 Alexander Holm，CC BY 3.0，署名、来源与许可内嵌。
+### What you can do
 
-## 项目与文档
+- **Play it your way:** transpose chords **and individual tab notes**, including bass notes and melodic lines.
+- **See and hear the score:** follow the tab, chord diagrams and strumming directions; click to play or audition a note.
+- **Practise at your pace:** adjust tempo, jump to sections, loop tricky passages, or enable a piano melody guide.
+- **Take it anywhere:** receive one self-contained offline HTML per song, with an **A4 print / Save as PDF** option.
 
-想了解 v0.1.0 的完整产品定义，可阅读 [产品需求文档](docs/PRD.md)；当前《仓颉》的实际状态、已知限制与验证记录见 [项目状态](docs/PROJECT_STATE.md)。
+### Install the Codex skill
 
-制作与维护入口：
+If you only want to open an existing example, **skip installation**.
 
-- [SmartChord skill](skills/smartchord/SKILL.md)：制谱流程与使用要求；项目内 `skills/smartchord/` 是维护源，当前本机安装目录链接到这里。
-- [工具与环境说明](skills/smartchord/references/tools.md)：构建、音色准备与验证命令。
-- [转录契约](skills/smartchord/references/transcription.md)与[验收要求](skills/smartchord/references/acceptance.md)：源数据整理及交付检查。
-- [skill 分发包](outputs/smartchord.zip)：供配置其他 Codex 环境时使用。
+**Option A — use the Codex skill installer:**
 
-当前歌曲工程在 `work/project/`，正式成果在 `outputs/`，原始交接资料在 `sources/drive-handoff/`。重建《仓颉》可在仓库根目录运行 `python3 work/project/build.py`，候选文件生成到 `work/project/candidate.html`，验收后再更新正式成果。
+```text
+$skill-installer
+Install the skill at skills/smartchord from
+https://github.com/simooon15/smartchord
+and confirm that $smartchord is available.
+```
+
+**Option B — manual install (macOS / Linux):**
+
+```bash
+git clone https://github.com/simooon15/smartchord.git
+mkdir -p ~/.agents/skills
+cp -R smartchord/skills/smartchord ~/.agents/skills/smartchord
+```
+
+Restart Codex if necessary. Check for `~/.agents/skills/smartchord/SKILL.md`. You can also download the [skill ZIP](outputs/smartchord.zip) and put the full `smartchord` skill folder in `~/.agents/skills/`. See the [official skills guide](https://developers.openai.com/codex/skills) and [environment notes](skills/smartchord/references/tools.md) for prerequisites.
+
+### Make your own interactive score
+
+1. **Upload a complete score** as clear screenshots or a PDF.
+2. **Tell Codex your preferred shapes and capo position:**
+
+```text
+$smartchord
+Turn my complete guitar score into an interactive HTML tab.
+Use G chord shapes with capo on fret 2 (concert key A).
+Preserve the original picking, melody, rhythm, lyrics,
+strumming patterns, repeats, and key changes.
+Do not replace the original part with a generic pattern.
+Deliver one complete offline HTML with A4 print / PDF support.
+```
+
+3. **Review any unclear notes or octave conflicts** when asked. A transposed arrangement may need an explicitly documented octave change.
+4. **Open your final HTML in a browser.** Play, slow down, loop sections, or print / save as PDF—no server needed.
+
+### Scope and status
+
+**v0.1.0** focuses on standard six-string guitar tuning. SmartChord is **not** a fully automatic, error-free score-recognition website. Transcription requires visual review, and advanced techniques or alternate tunings may need adaptation. Automated browser, audio and print checks on the demos do **not** replace human listening or playing tests.
+
+Rights to redistribute the example scores and guitar samples should be confirmed before further public distribution. The piano melody samples are credited to [Salamander Grand Piano V3](https://github.com/sfzinstruments/SalamanderGrandPiano) (CC BY 3.0).
+
+**Learn more:** [Skill instructions](skills/smartchord/SKILL.md) · [Tooling](skills/smartchord/references/tools.md) · [Product spec](docs/PRD.md) · [Project state](docs/PROJECT_STATE.md)
