@@ -1,0 +1,17 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+node_modules/
+.env
+.env.*
+/archive/
+/docs/conversation/
+/work/**/qa*/
+/work/**/candidate.html
+/work/skill-check/
+/work/documentation-review/
+/work/piano-source/
+/work/*-tree.json
+/work/project/*.before-compact.*
+
+/work/repository-qa/

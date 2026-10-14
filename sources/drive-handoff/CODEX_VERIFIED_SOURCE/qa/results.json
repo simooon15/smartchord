@@ -1,0 +1,13 @@
+{
+  "chromium": "PASS",
+  "webkit": "PASS",
+  "printPages": 10,
+  "sampleClips": 34,
+  "strumNotation": "cross-string arrows; zero picking digits in sweep events",
+  "measures": 93,
+  "uniqueBars": 67,
+  "octaveExceptions": 221,
+  "unresolved": [],
+  "networkRequests": [],
+  "consoleErrors": []
+}

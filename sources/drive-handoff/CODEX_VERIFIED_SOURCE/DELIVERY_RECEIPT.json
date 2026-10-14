@@ -1,0 +1,466 @@
+{
+  "readback": "local Drive Desktop filesystem SHA-256; not a claim of server sync completion",
+  "files": [
+    {
+      "path": "/Users/simonluo/Documents/Codex/2026-10-14/google-drive-handoff-x20-https-drive/outputs/仓颉_完整交互六线谱_G指法_Capo2_FINAL.html",
+      "bytes": 7965023,
+      "sha256": "59b22500130a4a2efe7e529a5234ed2ba186a85e415f33ad1e08637b118099df"
+    },
+    {
+      "path": "/Users/simonluo/Library/CloudStorage/GoogleDrive-simooonluo@gmail.com/我的云端硬盘/仓颉_G指法Capo2_Codex_Handoff_2026-10-14/仓颉_完整交互六线谱_G指法_Capo2_FINAL.html",
+      "bytes": 7965023,
+      "sha256": "59b22500130a4a2efe7e529a5234ed2ba186a85e415f33ad1e08637b118099df"
+    },
+    {
+      "path": "/Users/simonluo/Library/CloudStorage/GoogleDrive-simooonluo@gmail.com/我的云端硬盘/仓颉_G指法Capo2_Codex_Handoff_2026-10-14/QA_REPORT.md",
+      "bytes": 13169,
+      "sha256": "a24b627b0b7b8312ccc9be6dd6d9b86afef83d6cda94a90a02c09ae3f484033d"
+    },
+    {
+      "path": "/Users/simonluo/Library/CloudStorage/GoogleDrive-simooonluo@gmail.com/我的云端硬盘/仓颉_G指法Capo2_Codex_Handoff_2026-10-14/CODEX_VERIFIED_SOURCE/score.json",
+      "bytes": 1945888,
+      "sha256": "31c81c0aadf561fdf1380891aaae503f6126312da8e3837f6853557a6fa518a1"
+    },
+    {
+      "path": "/Users/simonluo/Library/CloudStorage/GoogleDrive-simooonluo@gmail.com/我的云端硬盘/仓颉_G指法Capo2_Codex_Handoff_2026-10-14/CODEX_VERIFIED_SOURCE/source-to-score.json",
+      "bytes": 29352,
+      "sha256": "1c19f2789c090f7c2156d1bc7ce3de684c3ae81ff3ff745485f734130d0070b0"
+    },
+    {
+      "path": "/Users/simonluo/Library/CloudStorage/GoogleDrive-simooonluo@gmail.com/我的云端硬盘/仓颉_G指法Capo2_Codex_Handoff_2026-10-14/CODEX_VERIFIED_SOURCE/transcribe.py",
+      "bytes": 17356,
+      "sha256": "ed68b49e7f30ac01a06431ef2f8669f4361bfd292a29c9433443794e62832352"
+    },
+    {
+      "path": "/Users/simonluo/Library/CloudStorage/GoogleDrive-simooonluo@gmail.com/我的云端硬盘/仓颉_G指法Capo2_Codex_Handoff_2026-10-14/CODEX_VERIFIED_SOURCE/source_map.py",
+      "bytes": 3020,
+      "sha256": "b44f293615852f0a3b8cbbd693c40de5b50a2c44f867e136c7e0cac9d032b0b0"
+    },
+    {
+      "path": "/Users/simonluo/Library/CloudStorage/GoogleDrive-simooonluo@gmail.com/我的云端硬盘/仓颉_G指法Capo2_Codex_Handoff_2026-10-14/CODEX_VERIFIED_SOURCE/build.py",
+      "bytes": 4921,
+      "sha256": "45393ec8314dcc03d94d152e429e8c49ab493beef9068550a155de6b32266e4e"
+    },
+    {
+      "path": "/Users/simonluo/Library/CloudStorage/GoogleDrive-simooonluo@gmail.com/我的云端硬盘/仓颉_G指法Capo2_Codex_Handoff_2026-10-14/CODEX_VERIFIED_SOURCE/app.js",
+      "bytes": 25883,
+      "sha256": "1687aa81ae3aa4f1ca5fbb2d98deae810612b0c2ba37c4b67e9bf6af417a40d5"
+    },
+    {
+      "path": "/Users/simonluo/Library/CloudStorage/GoogleDrive-simooonluo@gmail.com/我的云端硬盘/仓颉_G指法Capo2_Codex_Handoff_2026-10-14/CODEX_VERIFIED_SOURCE/app.css",
+      "bytes": 7403,
+      "sha256": "c6560ae9e8dad2f0b46b9cb8d495b431404d2accb318c307f3e7fd3415fe0208"
+    },
+    {
+      "path": "/Users/simonluo/Library/CloudStorage/GoogleDrive-simooonluo@gmail.com/我的云端硬盘/仓颉_G指法Capo2_Codex_Handoff_2026-10-14/CODEX_VERIFIED_SOURCE/verify.cjs",
+      "bytes": 8021,
+      "sha256": "413feeba33b03731d60448c24c49390764f8c2881911cf74d2f0e2144cce3766"
+    },
+    {
+      "path": "/Users/simonluo/Library/CloudStorage/GoogleDrive-simooonluo@gmail.com/我的云端硬盘/仓颉_G指法Capo2_Codex_Handoff_2026-10-14/CODEX_VERIFIED_SOURCE/audio_qa.cjs",
+      "bytes": 2084,
+      "sha256": "bef801773851e4e403b021af1f66d94663a7560e2eb0ad6b5f9a4a3030faeb34"
+    },
+    {
+      "path": "/Users/simonluo/Library/CloudStorage/GoogleDrive-simooonluo@gmail.com/我的云端硬盘/仓颉_G指法Capo2_Codex_Handoff_2026-10-14/CODEX_VERIFIED_SOURCE/extract_samples.mjs",
+      "bytes": 2377,
+      "sha256": "6e3f485b3aeee971b31669d870a75c0f2c41b7cf6551651453e9f34f733d9e75"
+    },
+    {
+      "path": "/Users/simonluo/Library/CloudStorage/GoogleDrive-simooonluo@gmail.com/我的云端硬盘/仓颉_G指法Capo2_Codex_Handoff_2026-10-14/CODEX_VERIFIED_SOURCE/tune_samples.py",
+      "bytes": 1027,
+      "sha256": "571d099e6a9091f888b7593b593410cbc3f64c3ed469fa005e0c2b182e95dc8d"
+    },
+    {
+      "path": "/Users/simonluo/Library/CloudStorage/GoogleDrive-simooonluo@gmail.com/我的云端硬盘/仓颉_G指法Capo2_Codex_Handoff_2026-10-14/CODEX_VERIFIED_SOURCE/write_report.py",
+      "bytes": 10891,
+      "sha256": "eb631c84e1d8ade81f317aafb9e4eac53008e24df4867ac24a407a1d15ba71c7"
+    },
+    {
+      "path": "/Users/simonluo/Library/CloudStorage/GoogleDrive-simooonluo@gmail.com/我的云端硬盘/仓颉_G指法Capo2_Codex_Handoff_2026-10-14/CODEX_VERIFIED_SOURCE/samples/66.m4a",
+      "bytes": 29737,
+      "sha256": "0fe44918865181a900d58189eaa969092b92e989494bc5c9573252ddba1c0d90"
+    },
+    {
+      "path": "/Users/simonluo/Library/CloudStorage/GoogleDrive-simooonluo@gmail.com/我的云端硬盘/仓颉_G指法Capo2_Codex_Handoff_2026-10-14/CODEX_VERIFIED_SOURCE/samples/67.m4a",
+      "bytes": 27817,
+      "sha256": "6ffeacda0651bbe74c5430f3e12125cc52049c77570a5848c520b6f8cadf629c"
+    },
+    {
+      "path": "/Users/simonluo/Library/CloudStorage/GoogleDrive-simooonluo@gmail.com/我的云端硬盘/仓颉_G指法Capo2_Codex_Handoff_2026-10-14/CODEX_VERIFIED_SOURCE/samples/73.m4a",
+      "bytes": 26618,
+      "sha256": "1c665c278c393a9ed2fd650fa4db48af8b98b144e72945062811c8b28c0903c3"
+    },
+    {
+      "path": "/Users/simonluo/Library/CloudStorage/GoogleDrive-simooonluo@gmail.com/我的云端硬盘/仓颉_G指法Capo2_Codex_Handoff_2026-10-14/CODEX_VERIFIED_SOURCE/samples/65.m4a",
+      "bytes": 30046,
+      "sha256": "7aee8314644102995071360e031aa8bc9fffafea608474d5f4738c99391ec98a"
+    },
+    {
+      "path": "/Users/simonluo/Library/CloudStorage/GoogleDrive-simooonluo@gmail.com/我的云端硬盘/仓颉_G指法Capo2_Codex_Handoff_2026-10-14/CODEX_VERIFIED_SOURCE/samples/71.m4a",
+      "bytes": 27334,
+      "sha256": "a70182f4c01855c34ead722a2047eda4bf4044108cec13f392cc8d2732e470b1"
+    },
+    {
+      "path": "/Users/simonluo/Library/CloudStorage/GoogleDrive-simooonluo@gmail.com/我的云端硬盘/仓颉_G指法Capo2_Codex_Handoff_2026-10-14/CODEX_VERIFIED_SOURCE/samples/59.m4a",
+      "bytes": 31863,
+      "sha256": "8ddba6c61e3f05a7cef2fa486aa38941abe53f30fe2c55f1842e91a83ab7f5d0"
+    },
+    {
+      "path": "/Users/simonluo/Library/CloudStorage/GoogleDrive-simooonluo@gmail.com/我的云端硬盘/仓颉_G指法Capo2_Codex_Handoff_2026-10-14/CODEX_VERIFIED_SOURCE/samples/58.m4a",
+      "bytes": 29243,
+      "sha256": "0db4a5a1e282263169772b3335b45ba10a9875bb4809a1c0cbf0cb6108c4b09f"
+    },
+    {
+      "path": "/Users/simonluo/Library/CloudStorage/GoogleDrive-simooonluo@gmail.com/我的云端硬盘/仓颉_G指法Capo2_Codex_Handoff_2026-10-14/CODEX_VERIFIED_SOURCE/samples/64.m4a",
+      "bytes": 30580,
+      "sha256": "bee0076992db39232126a138cf28c1580852d8990bf03e6b8b5b857bcb17b55a"
+    },
+    {
+      "path": "/Users/simonluo/Library/CloudStorage/GoogleDrive-simooonluo@gmail.com/我的云端硬盘/仓颉_G指法Capo2_Codex_Handoff_2026-10-14/CODEX_VERIFIED_SOURCE/samples/48.m4a",
+      "bytes": 27591,
+      "sha256": "f94854e6062d0ab7bd1838ffa612b47ee1b07afd7b300e2755876f5c1380226c"
+    },
+    {
+      "path": "/Users/simonluo/Library/CloudStorage/GoogleDrive-simooonluo@gmail.com/我的云端硬盘/仓颉_G指法Capo2_Codex_Handoff_2026-10-14/CODEX_VERIFIED_SOURCE/samples/60.m4a",
+      "bytes": 31814,
+      "sha256": "83daef61d00aeaff42732caed5fec8bb0d97cc6f4b21a7abe897f0bb5e6344d0"
+    },
+    {
+      "path": "/Users/simonluo/Library/CloudStorage/GoogleDrive-simooonluo@gmail.com/我的云端硬盘/仓颉_G指法Capo2_Codex_Handoff_2026-10-14/CODEX_VERIFIED_SOURCE/samples/74.m4a",
+      "bytes": 25337,
+      "sha256": "329ab22c6dc38cf5e020b68820e5c549420dfe5d654a8eb7d765f87b96145077"
+    },
+    {
+      "path": "/Users/simonluo/Library/CloudStorage/GoogleDrive-simooonluo@gmail.com/我的云端硬盘/仓颉_G指法Capo2_Codex_Handoff_2026-10-14/CODEX_VERIFIED_SOURCE/samples/61.m4a",
+      "bytes": 31343,
+      "sha256": "f83f87b06d21c7a8f61236409f1f280e461100948b582ce6da9741baffa725fe"
+    },
+    {
+      "path": "/Users/simonluo/Library/CloudStorage/GoogleDrive-simooonluo@gmail.com/我的云端硬盘/仓颉_G指法Capo2_Codex_Handoff_2026-10-14/CODEX_VERIFIED_SOURCE/samples/49.m4a",
+      "bytes": 27400,
+      "sha256": "1195bc837bd9840510d374ef368b6b171b98ee8cb5a827ce4b1c3b24ade79eb9"
+    },
+    {
+      "path": "/Users/simonluo/Library/CloudStorage/GoogleDrive-simooonluo@gmail.com/我的云端硬盘/仓颉_G指法Capo2_Codex_Handoff_2026-10-14/CODEX_VERIFIED_SOURCE/samples/63.m4a",
+      "bytes": 30518,
+      "sha256": "cc1f073db96c784618362da7ef6bb3dd46ae2525afeff918f4da5393b6f0f9b0"
+    },
+    {
+      "path": "/Users/simonluo/Library/CloudStorage/GoogleDrive-simooonluo@gmail.com/我的云端硬盘/仓颉_G指法Capo2_Codex_Handoff_2026-10-14/CODEX_VERIFIED_SOURCE/samples/62.m4a",
+      "bytes": 31174,
+      "sha256": "3240cd9c2fdc27171a63db1ebe37b7bece67420b5f2296843b966f37bc8df79d"
+    },
+    {
+      "path": "/Users/simonluo/Library/CloudStorage/GoogleDrive-simooonluo@gmail.com/我的云端硬盘/仓颉_G指法Capo2_Codex_Handoff_2026-10-14/CODEX_VERIFIED_SOURCE/samples/76.m4a",
+      "bytes": 23750,
+      "sha256": "f8f0b795a5426868ef943c98eeec1f471272b8136e0da0c9a9673c59de71d0ac"
+    },
+    {
+      "path": "/Users/simonluo/Library/CloudStorage/GoogleDrive-simooonluo@gmail.com/我的云端硬盘/仓颉_G指法Capo2_Codex_Handoff_2026-10-14/CODEX_VERIFIED_SOURCE/samples/manifest.json",
+      "bytes": 3707,
+      "sha256": "5d35d0c5ec60cbacf128af534456c68de9edcfff735b2d8f0cf76ea2562c8acb"
+    },
+    {
+      "path": "/Users/simonluo/Library/CloudStorage/GoogleDrive-simooonluo@gmail.com/我的云端硬盘/仓颉_G指法Capo2_Codex_Handoff_2026-10-14/CODEX_VERIFIED_SOURCE/samples/53.m4a",
+      "bytes": 29000,
+      "sha256": "af0097c14395215b4549620acdf184f9ade0b2a7816e10fe1e72a21e61e4303a"
+    },
+    {
+      "path": "/Users/simonluo/Library/CloudStorage/GoogleDrive-simooonluo@gmail.com/我的云端硬盘/仓颉_G指法Capo2_Codex_Handoff_2026-10-14/CODEX_VERIFIED_SOURCE/samples/47.m4a",
+      "bytes": 27438,
+      "sha256": "2896d1a5450bc030323be5f5638e1efffe8f1fe191661cc2fcdd13a96acb621b"
+    },
+    {
+      "path": "/Users/simonluo/Library/CloudStorage/GoogleDrive-simooonluo@gmail.com/我的云端硬盘/仓颉_G指法Capo2_Codex_Handoff_2026-10-14/CODEX_VERIFIED_SOURCE/samples/46.m4a",
+      "bytes": 27636,
+      "sha256": "d206a0af1c8d331f20712c197d70b0a4db048884d9be9364de65ff08795c17ec"
+    },
+    {
+      "path": "/Users/simonluo/Library/CloudStorage/GoogleDrive-simooonluo@gmail.com/我的云端硬盘/仓颉_G指法Capo2_Codex_Handoff_2026-10-14/CODEX_VERIFIED_SOURCE/samples/52.m4a",
+      "bytes": 28793,
+      "sha256": "ff78085b1ddd6ba72943d51e49386a3ab44e6b7990a64741e80b3199553fa2ba"
+    },
+    {
+      "path": "/Users/simonluo/Library/CloudStorage/GoogleDrive-simooonluo@gmail.com/我的云端硬盘/仓颉_G指法Capo2_Codex_Handoff_2026-10-14/CODEX_VERIFIED_SOURCE/samples/44.m4a",
+      "bytes": 25224,
+      "sha256": "bc9104058974ebcfc44edb12bbdd9ad6cfd4d5e2a1411aae37d552ec3fffd179"
+    },
+    {
+      "path": "/Users/simonluo/Library/CloudStorage/GoogleDrive-simooonluo@gmail.com/我的云端硬盘/仓颉_G指法Capo2_Codex_Handoff_2026-10-14/CODEX_VERIFIED_SOURCE/samples/50.m4a",
+      "bytes": 29536,
+      "sha256": "4d1018e3bafec389a5f5f8bde32ba5af766d9ea678942174e116d3f7ea9ff80d"
+    },
+    {
+      "path": "/Users/simonluo/Library/CloudStorage/GoogleDrive-simooonluo@gmail.com/我的云端硬盘/仓颉_G指法Capo2_Codex_Handoff_2026-10-14/CODEX_VERIFIED_SOURCE/samples/51.m4a",
+      "bytes": 28609,
+      "sha256": "184d20534a72e69432ce7fed65fc3419b44a7a4062767fbd42654ff5a0e9a758"
+    },
+    {
+      "path": "/Users/simonluo/Library/CloudStorage/GoogleDrive-simooonluo@gmail.com/我的云端硬盘/仓颉_G指法Capo2_Codex_Handoff_2026-10-14/CODEX_VERIFIED_SOURCE/samples/45.m4a",
+      "bytes": 31597,
+      "sha256": "edc6d0356a70fd3136df9f80d36cfa89d53aff8a0b9bd5005dce04f72fdd2be0"
+    },
+    {
+      "path": "/Users/simonluo/Library/CloudStorage/GoogleDrive-simooonluo@gmail.com/我的云端硬盘/仓颉_G指法Capo2_Codex_Handoff_2026-10-14/CODEX_VERIFIED_SOURCE/samples/69.m4a",
+      "bytes": 27443,
+      "sha256": "b5b23aae1dab9aea1a56fce9f389174d70d0fe5969d8eb240f0da40e30f07a8e"
+    },
+    {
+      "path": "/Users/simonluo/Library/CloudStorage/GoogleDrive-simooonluo@gmail.com/我的云端硬盘/仓颉_G指法Capo2_Codex_Handoff_2026-10-14/CODEX_VERIFIED_SOURCE/samples/41.m4a",
+      "bytes": 26896,
+      "sha256": "0203bbe7bfccc31ae3be33796a39e480387938d3ec3457b3dc6f6a40fc5f38f4"
+    },
+    {
+      "path": "/Users/simonluo/Library/CloudStorage/GoogleDrive-simooonluo@gmail.com/我的云端硬盘/仓颉_G指法Capo2_Codex_Handoff_2026-10-14/CODEX_VERIFIED_SOURCE/samples/55.m4a",
+      "bytes": 30563,
+      "sha256": "6d63d532279de3b880bf318398217d276e075c3d793391f2f3249e92b8ccbb6e"
+    },
+    {
+      "path": "/Users/simonluo/Library/CloudStorage/GoogleDrive-simooonluo@gmail.com/我的云端硬盘/仓颉_G指法Capo2_Codex_Handoff_2026-10-14/CODEX_VERIFIED_SOURCE/samples/54.m4a",
+      "bytes": 28606,
+      "sha256": "28e6d8ebb0c65cc21000527f91832d5052b618dccffb9b4898672f77bc4fc866"
+    },
+    {
+      "path": "/Users/simonluo/Library/CloudStorage/GoogleDrive-simooonluo@gmail.com/我的云端硬盘/仓颉_G指法Capo2_Codex_Handoff_2026-10-14/CODEX_VERIFIED_SOURCE/samples/40.m4a",
+      "bytes": 26080,
+      "sha256": "27104c40438818ac04325b8e4873073340f1bf16104266a4e6bdd23d1ef1af7b"
+    },
+    {
+      "path": "/Users/simonluo/Library/CloudStorage/GoogleDrive-simooonluo@gmail.com/我的云端硬盘/仓颉_G指法Capo2_Codex_Handoff_2026-10-14/CODEX_VERIFIED_SOURCE/samples/68.m4a",
+      "bytes": 27984,
+      "sha256": "984bb5250e7c3b553f941a407fc3d7327659c8c85525323d28f30b397ae1ea0b"
+    },
+    {
+      "path": "/Users/simonluo/Library/CloudStorage/GoogleDrive-simooonluo@gmail.com/我的云端硬盘/仓颉_G指法Capo2_Codex_Handoff_2026-10-14/CODEX_VERIFIED_SOURCE/samples/56.m4a",
+      "bytes": 29483,
+      "sha256": "627b23dff610b4a69369d6d984716733a0b500aa19df3753a8e8d1b05f05abb6"
+    },
+    {
+      "path": "/Users/simonluo/Library/CloudStorage/GoogleDrive-simooonluo@gmail.com/我的云端硬盘/仓颉_G指法Capo2_Codex_Handoff_2026-10-14/CODEX_VERIFIED_SOURCE/samples/42.m4a",
+      "bytes": 27057,
+      "sha256": "1e6dff86160e3eb6792726cfdf0a965f1feb401e73e52073cce76e1926937e92"
+    },
+    {
+      "path": "/Users/simonluo/Library/CloudStorage/GoogleDrive-simooonluo@gmail.com/我的云端硬盘/仓颉_G指法Capo2_Codex_Handoff_2026-10-14/CODEX_VERIFIED_SOURCE/samples/43.m4a",
+      "bytes": 26142,
+      "sha256": "a168dd34fd229e52d7a91a696eddee082d200319de002a45b670bac29ded0083"
+    },
+    {
+      "path": "/Users/simonluo/Library/CloudStorage/GoogleDrive-simooonluo@gmail.com/我的云端硬盘/仓颉_G指法Capo2_Codex_Handoff_2026-10-14/CODEX_VERIFIED_SOURCE/samples/57.m4a",
+      "bytes": 29364,
+      "sha256": "60d004705f4f028018841d79015493a8971876040c12aba58c753017b8720413"
+    },
+    {
+      "path": "/Users/simonluo/Library/CloudStorage/GoogleDrive-simooonluo@gmail.com/我的云端硬盘/仓颉_G指法Capo2_Codex_Handoff_2026-10-14/CODEX_VERIFIED_SOURCE/samples/tuning.json",
+      "bytes": 5885,
+      "sha256": "b11c28adffd45038d03ca25ebd1d7d9006826a584f4ce8b341ff832f317c81da"
+    },
+    {
+      "path": "/Users/simonluo/Library/CloudStorage/GoogleDrive-simooonluo@gmail.com/我的云端硬盘/仓颉_G指法Capo2_Codex_Handoff_2026-10-14/SOURCE_SCREENSHOTS/IMG_7056.PNG",
+      "bytes": 282183,
+      "sha256": "116d2098526d68c112172364a3d2dfad0678cdb765a7442c0cf278cac5035c8d"
+    },
+    {
+      "path": "/Users/simonluo/Library/CloudStorage/GoogleDrive-simooonluo@gmail.com/我的云端硬盘/仓颉_G指法Capo2_Codex_Handoff_2026-10-14/SOURCE_SCREENSHOTS/IMG_7042.PNG",
+      "bytes": 266516,
+      "sha256": "754f368d1f6469ce9fea49dba80c9c37e7e370b0a4054d4a873bd50de3f7d269"
+    },
+    {
+      "path": "/Users/simonluo/Library/CloudStorage/GoogleDrive-simooonluo@gmail.com/我的云端硬盘/仓颉_G指法Capo2_Codex_Handoff_2026-10-14/SOURCE_SCREENSHOTS/IMG_7043.PNG",
+      "bytes": 263075,
+      "sha256": "49e460d9bc409b176b1df5cb40063eae350a2ba93dbc10c6a9a91ec688f656e8"
+    },
+    {
+      "path": "/Users/simonluo/Library/CloudStorage/GoogleDrive-simooonluo@gmail.com/我的云端硬盘/仓颉_G指法Capo2_Codex_Handoff_2026-10-14/SOURCE_SCREENSHOTS/IMG_7041.PNG",
+      "bytes": 260207,
+      "sha256": "14062b5ecde781ae53f152a5df855ae2b38115e4e8e96609a6eda9a3eb9061ad"
+    },
+    {
+      "path": "/Users/simonluo/Library/CloudStorage/GoogleDrive-simooonluo@gmail.com/我的云端硬盘/仓颉_G指法Capo2_Codex_Handoff_2026-10-14/SOURCE_SCREENSHOTS/IMG_7055.PNG",
+      "bytes": 255153,
+      "sha256": "53b03c7e78947d968f8975a47c678461225e795043ab2222097b6c5c3914f2ad"
+    },
+    {
+      "path": "/Users/simonluo/Library/CloudStorage/GoogleDrive-simooonluo@gmail.com/我的云端硬盘/仓颉_G指法Capo2_Codex_Handoff_2026-10-14/SOURCE_SCREENSHOTS/IMG_7054.PNG",
+      "bytes": 255494,
+      "sha256": "bc3eac198921b951762ea1620173203f1bea0166d8dfecad03c660e8f977e817"
+    },
+    {
+      "path": "/Users/simonluo/Library/CloudStorage/GoogleDrive-simooonluo@gmail.com/我的云端硬盘/仓颉_G指法Capo2_Codex_Handoff_2026-10-14/SOURCE_SCREENSHOTS/IMG_7044.PNG",
+      "bytes": 296886,
+      "sha256": "a764c024649aac0ae7c3fcb88901092275c5ab6364a3ba2422dcbf24e4a5d69c"
+    },
+    {
+      "path": "/Users/simonluo/Library/CloudStorage/GoogleDrive-simooonluo@gmail.com/我的云端硬盘/仓颉_G指法Capo2_Codex_Handoff_2026-10-14/SOURCE_SCREENSHOTS/IMG_7050.PNG",
+      "bytes": 264763,
+      "sha256": "32355015b0c595f3388b28b83450c76c4389eba69b3c3db5d07909a2aa211b33"
+    },
+    {
+      "path": "/Users/simonluo/Library/CloudStorage/GoogleDrive-simooonluo@gmail.com/我的云端硬盘/仓颉_G指法Capo2_Codex_Handoff_2026-10-14/SOURCE_SCREENSHOTS/IMG_7051.PNG",
+      "bytes": 244857,
+      "sha256": "940e4ca54707d73a4cf6e208074969aa25ec41b8474759d5a110a5e2fa1d2053"
+    },
+    {
+      "path": "/Users/simonluo/Library/CloudStorage/GoogleDrive-simooonluo@gmail.com/我的云端硬盘/仓颉_G指法Capo2_Codex_Handoff_2026-10-14/SOURCE_SCREENSHOTS/IMG_7045.PNG",
+      "bytes": 292749,
+      "sha256": "04c72a3470bb4f2963e4b32bee87d99663c0eeb365857dd62edc1d5b34a8c07a"
+    },
+    {
+      "path": "/Users/simonluo/Library/CloudStorage/GoogleDrive-simooonluo@gmail.com/我的云端硬盘/仓颉_G指法Capo2_Codex_Handoff_2026-10-14/SOURCE_SCREENSHOTS/user_original_归档.zip",
+      "bytes": 3824779,
+      "sha256": "ee4097f344a269670963dcddc98667c3a99bfd580234ccb0bdb40df254453cc9"
+    },
+    {
+      "path": "/Users/simonluo/Library/CloudStorage/GoogleDrive-simooonluo@gmail.com/我的云端硬盘/仓颉_G指法Capo2_Codex_Handoff_2026-10-14/SOURCE_SCREENSHOTS/IMG_7053.PNG",
+      "bytes": 287350,
+      "sha256": "4447790af50db48a169a7f4f15d73f91d4e82c9d48dae1c70745ee57324535a2"
+    },
+    {
+      "path": "/Users/simonluo/Library/CloudStorage/GoogleDrive-simooonluo@gmail.com/我的云端硬盘/仓颉_G指法Capo2_Codex_Handoff_2026-10-14/SOURCE_SCREENSHOTS/IMG_7047.PNG",
+      "bytes": 246269,
+      "sha256": "a750e35514c11d3cf6e1d13780d6f9934bcf07464cdfdf38b853f7b1b68f1d81"
+    },
+    {
+      "path": "/Users/simonluo/Library/CloudStorage/GoogleDrive-simooonluo@gmail.com/我的云端硬盘/仓颉_G指法Capo2_Codex_Handoff_2026-10-14/SOURCE_SCREENSHOTS/IMG_7046.PNG",
+      "bytes": 256575,
+      "sha256": "2c313a235703bea24c9d130c7a0756672374bffb23f1d58bddc05e0451c59c2d"
+    },
+    {
+      "path": "/Users/simonluo/Library/CloudStorage/GoogleDrive-simooonluo@gmail.com/我的云端硬盘/仓颉_G指法Capo2_Codex_Handoff_2026-10-14/SOURCE_SCREENSHOTS/IMG_7052.PNG",
+      "bytes": 291509,
+      "sha256": "fa15d276aca3dc3db8508db30814076868da787d6e9a33b3136abc201a9eedc6"
+    },
+    {
+      "path": "/Users/simonluo/Library/CloudStorage/GoogleDrive-simooonluo@gmail.com/我的云端硬盘/仓颉_G指法Capo2_Codex_Handoff_2026-10-14/SOURCE_SCREENSHOTS/IMG_7048.PNG",
+      "bytes": 257012,
+      "sha256": "97d268f85a9a36050b3eb01e84e40f54ec416192323d3ecc824e7da7f8026907"
+    },
+    {
+      "path": "/Users/simonluo/Library/CloudStorage/GoogleDrive-simooonluo@gmail.com/我的云端硬盘/仓颉_G指法Capo2_Codex_Handoff_2026-10-14/SOURCE_SCREENSHOTS/IMG_7049.PNG",
+      "bytes": 278002,
+      "sha256": "e4a472e60a6c91c4b91c412fc94c258b6733354d4bd5df83d709f15dba115951"
+    },
+    {
+      "path": "/Users/simonluo/Library/CloudStorage/GoogleDrive-simooonluo@gmail.com/我的云端硬盘/仓颉_G指法Capo2_Codex_Handoff_2026-10-14/SOURCE_SCREENSHOTS/IMG_7027_intro_reference.png",
+      "bytes": 235661,
+      "sha256": "9b7cefdffc5717ccdaf5ff2bceabc1d69e06f10718b524e52f4a18c391765fbb"
+    },
+    {
+      "path": "/Users/simonluo/Library/CloudStorage/GoogleDrive-simooonluo@gmail.com/我的云端硬盘/仓颉_G指法Capo2_Codex_Handoff_2026-10-14/CODEX_VERIFIED_SOURCE/qa/results.json",
+      "bytes": 297,
+      "sha256": "34b81a71146fa266e9a1d29d81b66b85c0114c48c8b8e766707d7a41c2b41f94"
+    },
+    {
+      "path": "/Users/simonluo/Library/CloudStorage/GoogleDrive-simooonluo@gmail.com/我的云端硬盘/仓颉_G指法Capo2_Codex_Handoff_2026-10-14/CODEX_VERIFIED_SOURCE/qa/audio-results.json",
+      "bytes": 9557,
+      "sha256": "ccb57e44d2379ab39ae0b1367678640138609d5dc480b7b814778370ccc4a123"
+    },
+    {
+      "path": "/Users/simonluo/Library/CloudStorage/GoogleDrive-simooonluo@gmail.com/我的云端硬盘/仓颉_G指法Capo2_Codex_Handoff_2026-10-14/CODEX_VERIFIED_SOURCE/qa/pdf-results.json",
+      "bytes": 1867,
+      "sha256": "8271123450f1e7e552386a9667353c860571af8f47748e663fac0e8370a09ff5"
+    },
+    {
+      "path": "/Users/simonluo/Library/CloudStorage/GoogleDrive-simooonluo@gmail.com/我的云端硬盘/仓颉_G指法Capo2_Codex_Handoff_2026-10-14/CODEX_VERIFIED_SOURCE/qa/proof.pdf",
+      "bytes": 667504,
+      "sha256": "ded36f12ff0b6ee9e303a8ed383eaf837084ffa8acf6473b80edcc52deb09946"
+    },
+    {
+      "path": "/Users/simonluo/Library/CloudStorage/GoogleDrive-simooonluo@gmail.com/我的云端硬盘/仓颉_G指法Capo2_Codex_Handoff_2026-10-14/CODEX_VERIFIED_SOURCE/qa/desktop.png",
+      "bytes": 118956,
+      "sha256": "a3569863ea19f446f2a002765cd71e5617e2e4caa16c29858f24faafb9863772"
+    },
+    {
+      "path": "/Users/simonluo/Library/CloudStorage/GoogleDrive-simooonluo@gmail.com/我的云端硬盘/仓颉_G指法Capo2_Codex_Handoff_2026-10-14/CODEX_VERIFIED_SOURCE/qa/mobile.png",
+      "bytes": 73449,
+      "sha256": "23b9bd9cbc8a55aca404ed5144271d26396136a0c1645a23c17cb6be07884408"
+    },
+    {
+      "path": "/Users/simonluo/Library/CloudStorage/GoogleDrive-simooonluo@gmail.com/我的云端硬盘/仓颉_G指法Capo2_Codex_Handoff_2026-10-14/CODEX_VERIFIED_SOURCE/qa/webkit.png",
+      "bytes": 99067,
+      "sha256": "6850e8edf7ad91f2bc46316a56dc060a34be0ede15e2529a7cd5eff527042b74"
+    },
+    {
+      "path": "/Users/simonluo/Library/CloudStorage/GoogleDrive-simooonluo@gmail.com/我的云端硬盘/仓颉_G指法Capo2_Codex_Handoff_2026-10-14/CODEX_VERIFIED_SOURCE/qa/intro.wav",
+      "bytes": 1290550,
+      "sha256": "8ddcbb7475e2da74b3f7a68714ae2bb0d6141cd2a8669ced4ec665ec83e283ba"
+    },
+    {
+      "path": "/Users/simonluo/Library/CloudStorage/GoogleDrive-simooonluo@gmail.com/我的云端硬盘/仓颉_G指法Capo2_Codex_Handoff_2026-10-14/CODEX_VERIFIED_SOURCE/qa/final_page-01.png",
+      "bytes": 67453,
+      "sha256": "81405ba5bbed8136a8d64f55aa6d85b832cefd2e17f4de7bcf1121f3ebbc599f"
+    },
+    {
+      "path": "/Users/simonluo/Library/CloudStorage/GoogleDrive-simooonluo@gmail.com/我的云端硬盘/仓颉_G指法Capo2_Codex_Handoff_2026-10-14/CODEX_VERIFIED_SOURCE/qa/final_page-02.png",
+      "bytes": 74211,
+      "sha256": "f36692f40c0704ea98c44dad187f0974707282a245b84a00a2d627cb27eb7b1d"
+    },
+    {
+      "path": "/Users/simonluo/Library/CloudStorage/GoogleDrive-simooonluo@gmail.com/我的云端硬盘/仓颉_G指法Capo2_Codex_Handoff_2026-10-14/CODEX_VERIFIED_SOURCE/qa/final_page-03.png",
+      "bytes": 77073,
+      "sha256": "f032a7034edb4f4dc91ac4363975dfd58c91351ca606639329b3f5563c83101c"
+    },
+    {
+      "path": "/Users/simonluo/Library/CloudStorage/GoogleDrive-simooonluo@gmail.com/我的云端硬盘/仓颉_G指法Capo2_Codex_Handoff_2026-10-14/CODEX_VERIFIED_SOURCE/qa/final_page-04.png",
+      "bytes": 83878,
+      "sha256": "e068ee213d68493a7be4a6bedb617b95528b2ed020c7d718185f6398093edb2a"
+    },
+    {
+      "path": "/Users/simonluo/Library/CloudStorage/GoogleDrive-simooonluo@gmail.com/我的云端硬盘/仓颉_G指法Capo2_Codex_Handoff_2026-10-14/CODEX_VERIFIED_SOURCE/qa/final_page-05.png",
+      "bytes": 75941,
+      "sha256": "3f967ef11555d406296869c3eb6e316dcf2b1ee199d64927de6ae4429b60be26"
+    },
+    {
+      "path": "/Users/simonluo/Library/CloudStorage/GoogleDrive-simooonluo@gmail.com/我的云端硬盘/仓颉_G指法Capo2_Codex_Handoff_2026-10-14/CODEX_VERIFIED_SOURCE/qa/final_page-06.png",
+      "bytes": 76451,
+      "sha256": "8e72a02517c67917e2126d25f973ec1d967279a33a45d8502928cbf76e68afc1"
+    },
+    {
+      "path": "/Users/simonluo/Library/CloudStorage/GoogleDrive-simooonluo@gmail.com/我的云端硬盘/仓颉_G指法Capo2_Codex_Handoff_2026-10-14/CODEX_VERIFIED_SOURCE/qa/final_page-07.png",
+      "bytes": 83848,
+      "sha256": "331772480f275766f32ef30f7399a78179d829ddb538d7f1af13291b24b8c377"
+    },
+    {
+      "path": "/Users/simonluo/Library/CloudStorage/GoogleDrive-simooonluo@gmail.com/我的云端硬盘/仓颉_G指法Capo2_Codex_Handoff_2026-10-14/CODEX_VERIFIED_SOURCE/qa/final_page-08.png",
+      "bytes": 77187,
+      "sha256": "f0cfada2f906b7e305f64180caf0b5c44c1b2b3de21ac452bc6edcae008f6c22"
+    },
+    {
+      "path": "/Users/simonluo/Library/CloudStorage/GoogleDrive-simooonluo@gmail.com/我的云端硬盘/仓颉_G指法Capo2_Codex_Handoff_2026-10-14/CODEX_VERIFIED_SOURCE/qa/final_page-09.png",
+      "bytes": 80954,
+      "sha256": "cf1f6d47edcb6de94dceedcb178aeaeb34bee294cf6e3684b26234144f792d83"
+    },
+    {
+      "path": "/Users/simonluo/Library/CloudStorage/GoogleDrive-simooonluo@gmail.com/我的云端硬盘/仓颉_G指法Capo2_Codex_Handoff_2026-10-14/CODEX_VERIFIED_SOURCE/qa/final_page-10.png",
+      "bytes": 95953,
+      "sha256": "1fd3607e67744851c4156ca409808fab7713a162b56494c139b57be5fa8662cb"
+    },
+    {
+      "path": "/Users/simonluo/Library/CloudStorage/GoogleDrive-simooonluo@gmail.com/我的云端硬盘/仓颉_G指法Capo2_Codex_Handoff_2026-10-14/CODEX_VERIFIED_SOURCE/qa/final_page-11.png",
+      "bytes": 85933,
+      "sha256": "664235f5ddf91500c41b5e2ee534387ffd8356ed85f807bee115b74c6cefe6d4"
+    },
+    {
+      "path": "/Users/simonluo/Library/CloudStorage/GoogleDrive-simooonluo@gmail.com/我的云端硬盘/仓颉_G指法Capo2_Codex_Handoff_2026-10-14/CODEX_VERIFIED_SOURCE/qa/final_page-12.png",
+      "bytes": 51063,
+      "sha256": "8f78236fe34043f459514b21216822d7259172f8f93f52f438821a64e7f963d7"
+    },
+    {
+      "path": "/Users/simonluo/Library/CloudStorage/GoogleDrive-simooonluo@gmail.com/我的云端硬盘/仓颉_G指法Capo2_Codex_Handoff_2026-10-14/CODEX_VERIFIED_SOURCE/qa/final_page-13.png",
+      "bytes": 71264,
+      "sha256": "377c916c63d592ff3d5556dd19d0d07fa2f151a7e5b3be04465784b2587d7b57"
+    },
+    {
+      "path": "/Users/simonluo/Library/CloudStorage/GoogleDrive-simooonluo@gmail.com/我的云端硬盘/仓颉_G指法Capo2_Codex_Handoff_2026-10-14/CODEX_VERIFIED_SOURCE/qa/final_page-14.png",
+      "bytes": 61994,
+      "sha256": "04d7a55aff04c8121a036ee65ff0f0ac9f62161d732dccda600e47afa9aefbf8"
+    },
+    {
+      "path": "/Users/simonluo/Library/CloudStorage/GoogleDrive-simooonluo@gmail.com/我的云端硬盘/仓颉_G指法Capo2_Codex_Handoff_2026-10-14/CODEX_VERIFIED_SOURCE/rhythm.js",
+      "bytes": 2234,
+      "sha256": "ceb4c1b1f1b8c0bf737e796c7cdb6bd2fc61014590385b4b0f0c3d9e6ad7c820"
+    }
+  ],
+  "revision": "2026-10-14 rhythm beams and dots fixed; 10 A4 pages"
+}

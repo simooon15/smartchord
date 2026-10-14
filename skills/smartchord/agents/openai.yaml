@@ -1,0 +1,4 @@
+interface:
+  display_name: "SmartChord · 智能吉他谱"
+  short_description: "将截图或 PDF 吉他谱转调为带指法图、自适应谱面、主旋律开关与 A4 打印的完整 HTML"
+  default_prompt: "使用 $smartchord 将我提供的截图或 PDF 转成完整离线交互吉他谱，先确认指法调、变调夹品位和实际调。"

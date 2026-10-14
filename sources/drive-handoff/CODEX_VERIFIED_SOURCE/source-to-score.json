@@ -1,0 +1,1583 @@
+[
+  {
+    "performanceMeasure": 1,
+    "sourceBarNumber": 1,
+    "pass": 1,
+    "screenshot": "IMG_7041.PNG",
+    "bounds": [
+      0,
+      375,
+      632,
+      975
+    ],
+    "section": "前奏",
+    "guitarEvents": 10,
+    "guitarSourceNotes": 14,
+    "status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "performanceMeasure": 2,
+    "sourceBarNumber": 2,
+    "pass": 1,
+    "screenshot": "IMG_7041.PNG",
+    "bounds": [
+      632,
+      375,
+      1206,
+      975
+    ],
+    "section": "前奏",
+    "guitarEvents": 10,
+    "guitarSourceNotes": 11,
+    "status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "performanceMeasure": 3,
+    "sourceBarNumber": 3,
+    "pass": 1,
+    "screenshot": "IMG_7041.PNG",
+    "bounds": [
+      0,
+      980,
+      418,
+      1530
+    ],
+    "section": "前奏",
+    "guitarEvents": 10,
+    "guitarSourceNotes": 11,
+    "status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "performanceMeasure": 4,
+    "sourceBarNumber": 4,
+    "pass": 1,
+    "screenshot": "IMG_7041.PNG",
+    "bounds": [
+      418,
+      980,
+      716,
+      1530
+    ],
+    "section": "前奏",
+    "guitarEvents": 6,
+    "guitarSourceNotes": 10,
+    "status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "performanceMeasure": 5,
+    "sourceBarNumber": 5,
+    "pass": 1,
+    "screenshot": "IMG_7041.PNG",
+    "bounds": [
+      716,
+      980,
+      1206,
+      1530
+    ],
+    "section": "主歌一",
+    "guitarEvents": 8,
+    "guitarSourceNotes": 13,
+    "status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "performanceMeasure": 6,
+    "sourceBarNumber": 6,
+    "pass": 1,
+    "screenshot": "IMG_7041.PNG",
+    "bounds": [
+      0,
+      1540,
+      402,
+      2160
+    ],
+    "section": "主歌一",
+    "guitarEvents": 8,
+    "guitarSourceNotes": 13,
+    "status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "performanceMeasure": 7,
+    "sourceBarNumber": 7,
+    "pass": 1,
+    "screenshot": "IMG_7041.PNG",
+    "bounds": [
+      402,
+      1540,
+      805,
+      2160
+    ],
+    "section": "主歌一",
+    "guitarEvents": 8,
+    "guitarSourceNotes": 10,
+    "status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "performanceMeasure": 8,
+    "sourceBarNumber": 8,
+    "pass": 1,
+    "screenshot": "IMG_7041.PNG",
+    "bounds": [
+      805,
+      1540,
+      1206,
+      2160
+    ],
+    "section": "主歌一",
+    "guitarEvents": 8,
+    "guitarSourceNotes": 13,
+    "status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "performanceMeasure": 9,
+    "sourceBarNumber": 9,
+    "pass": 1,
+    "screenshot": "IMG_7042.PNG",
+    "bounds": [
+      0,
+      185,
+      675,
+      760
+    ],
+    "section": "主歌一",
+    "guitarEvents": 8,
+    "guitarSourceNotes": 13,
+    "status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "performanceMeasure": 10,
+    "sourceBarNumber": 10,
+    "pass": 1,
+    "screenshot": "IMG_7042.PNG",
+    "bounds": [
+      675,
+      185,
+      1206,
+      760
+    ],
+    "section": "主歌一",
+    "guitarEvents": 8,
+    "guitarSourceNotes": 13,
+    "status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "performanceMeasure": 11,
+    "sourceBarNumber": 11,
+    "pass": 1,
+    "screenshot": "IMG_7042.PNG",
+    "bounds": [
+      0,
+      790,
+      610,
+      1350
+    ],
+    "section": "主歌一",
+    "guitarEvents": 8,
+    "guitarSourceNotes": 10,
+    "status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "performanceMeasure": 12,
+    "sourceBarNumber": 12,
+    "pass": 1,
+    "screenshot": "IMG_7042.PNG",
+    "bounds": [
+      610,
+      790,
+      1206,
+      1350
+    ],
+    "section": "主歌一",
+    "guitarEvents": 8,
+    "guitarSourceNotes": 13,
+    "status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "performanceMeasure": 13,
+    "sourceBarNumber": 13,
+    "pass": 1,
+    "screenshot": "IMG_7042.PNG",
+    "bounds": [
+      0,
+      1380,
+      685,
+      2000
+    ],
+    "section": "主歌一",
+    "guitarEvents": 8,
+    "guitarSourceNotes": 13,
+    "status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "performanceMeasure": 14,
+    "sourceBarNumber": 14,
+    "pass": 1,
+    "screenshot": "IMG_7042.PNG",
+    "bounds": [
+      685,
+      1380,
+      1206,
+      2000
+    ],
+    "section": "主歌一",
+    "guitarEvents": 8,
+    "guitarSourceNotes": 13,
+    "status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "performanceMeasure": 15,
+    "sourceBarNumber": 15,
+    "pass": 1,
+    "screenshot": "IMG_7043.PNG",
+    "bounds": [
+      0,
+      740,
+      618,
+      1360
+    ],
+    "section": "主歌一",
+    "guitarEvents": 8,
+    "guitarSourceNotes": 10,
+    "status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "performanceMeasure": 16,
+    "sourceBarNumber": 16,
+    "pass": 1,
+    "screenshot": "IMG_7043.PNG",
+    "bounds": [
+      618,
+      740,
+      1206,
+      1360
+    ],
+    "section": "主歌一",
+    "guitarEvents": 8,
+    "guitarSourceNotes": 13,
+    "status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "performanceMeasure": 17,
+    "sourceBarNumber": 17,
+    "pass": 1,
+    "screenshot": "IMG_7043.PNG",
+    "bounds": [
+      0,
+      1370,
+      680,
+      1960
+    ],
+    "section": "主歌一",
+    "guitarEvents": 8,
+    "guitarSourceNotes": 13,
+    "status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "performanceMeasure": 18,
+    "sourceBarNumber": 18,
+    "pass": 1,
+    "screenshot": "IMG_7043.PNG",
+    "bounds": [
+      680,
+      1370,
+      1206,
+      1960
+    ],
+    "section": "主歌一",
+    "guitarEvents": 8,
+    "guitarSourceNotes": 13,
+    "status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "performanceMeasure": 19,
+    "sourceBarNumber": 19,
+    "pass": 1,
+    "screenshot": "IMG_7044.PNG",
+    "bounds": [
+      0,
+      235,
+      429,
+      885
+    ],
+    "section": "主歌一",
+    "guitarEvents": 8,
+    "guitarSourceNotes": 10,
+    "status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "performanceMeasure": 20,
+    "sourceBarNumber": 20,
+    "pass": 1,
+    "screenshot": "IMG_7044.PNG",
+    "bounds": [
+      429,
+      235,
+      818,
+      885
+    ],
+    "section": "主歌一",
+    "guitarEvents": 8,
+    "guitarSourceNotes": 13,
+    "status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "performanceMeasure": 21,
+    "sourceBarNumber": 21,
+    "pass": 1,
+    "screenshot": "IMG_7044.PNG",
+    "bounds": [
+      818,
+      235,
+      1206,
+      885
+    ],
+    "section": "主歌一",
+    "guitarEvents": 8,
+    "guitarSourceNotes": 14,
+    "status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "performanceMeasure": 22,
+    "sourceBarNumber": 22,
+    "pass": 1,
+    "screenshot": "IMG_7044.PNG",
+    "bounds": [
+      0,
+      885,
+      508,
+      1470
+    ],
+    "section": "主歌一",
+    "guitarEvents": 1,
+    "guitarSourceNotes": 6,
+    "status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "performanceMeasure": 23,
+    "sourceBarNumber": 23,
+    "pass": 1,
+    "screenshot": "IMG_7044.PNG",
+    "bounds": [
+      508,
+      885,
+      1206,
+      1470
+    ],
+    "section": "副歌一",
+    "guitarEvents": 10,
+    "guitarSourceNotes": 39,
+    "status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "performanceMeasure": 24,
+    "sourceBarNumber": 24,
+    "pass": 1,
+    "screenshot": "IMG_7044.PNG",
+    "bounds": [
+      0,
+      1470,
+      616,
+      2080
+    ],
+    "section": "副歌一",
+    "guitarEvents": 10,
+    "guitarSourceNotes": 41,
+    "status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "performanceMeasure": 25,
+    "sourceBarNumber": 25,
+    "pass": 1,
+    "screenshot": "IMG_7044.PNG",
+    "bounds": [
+      616,
+      1470,
+      1206,
+      2080
+    ],
+    "section": "副歌一",
+    "guitarEvents": 10,
+    "guitarSourceNotes": 42,
+    "status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "performanceMeasure": 26,
+    "sourceBarNumber": 26,
+    "pass": 1,
+    "screenshot": "IMG_7045.PNG",
+    "bounds": [
+      0,
+      185,
+      606,
+      770
+    ],
+    "section": "副歌一",
+    "guitarEvents": 10,
+    "guitarSourceNotes": 40,
+    "status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "performanceMeasure": 27,
+    "sourceBarNumber": 27,
+    "pass": 1,
+    "screenshot": "IMG_7045.PNG",
+    "bounds": [
+      606,
+      185,
+      1206,
+      770
+    ],
+    "section": "副歌一",
+    "guitarEvents": 10,
+    "guitarSourceNotes": 39,
+    "status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "performanceMeasure": 28,
+    "sourceBarNumber": 28,
+    "pass": 1,
+    "screenshot": "IMG_7045.PNG",
+    "bounds": [
+      0,
+      780,
+      636,
+      1380
+    ],
+    "section": "副歌一",
+    "guitarEvents": 10,
+    "guitarSourceNotes": 41,
+    "status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "performanceMeasure": 29,
+    "sourceBarNumber": 29,
+    "pass": 1,
+    "screenshot": "IMG_7045.PNG",
+    "bounds": [
+      636,
+      780,
+      1206,
+      1380
+    ],
+    "section": "副歌一",
+    "guitarEvents": 10,
+    "guitarSourceNotes": 42,
+    "status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "performanceMeasure": 30,
+    "sourceBarNumber": 30,
+    "pass": 1,
+    "screenshot": "IMG_7045.PNG",
+    "bounds": [
+      0,
+      1380,
+      710,
+      2010
+    ],
+    "section": "副歌一",
+    "guitarEvents": 10,
+    "guitarSourceNotes": 40,
+    "status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "performanceMeasure": 31,
+    "sourceBarNumber": 31,
+    "pass": 1,
+    "screenshot": "IMG_7045.PNG",
+    "bounds": [
+      710,
+      1380,
+      1206,
+      2010
+    ],
+    "section": "连接",
+    "guitarEvents": 10,
+    "guitarSourceNotes": 14,
+    "status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "performanceMeasure": 32,
+    "sourceBarNumber": 32,
+    "pass": 1,
+    "screenshot": "IMG_7046.PNG",
+    "bounds": [
+      0,
+      200,
+      475,
+      720
+    ],
+    "section": "连接",
+    "guitarEvents": 10,
+    "guitarSourceNotes": 11,
+    "status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "performanceMeasure": 33,
+    "sourceBarNumber": 33,
+    "pass": 1,
+    "screenshot": "IMG_7046.PNG",
+    "bounds": [
+      475,
+      200,
+      872,
+      720
+    ],
+    "section": "连接",
+    "guitarEvents": 8,
+    "guitarSourceNotes": 16,
+    "status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "performanceMeasure": 34,
+    "sourceBarNumber": 34,
+    "pass": 1,
+    "screenshot": "IMG_7046.PNG",
+    "bounds": [
+      872,
+      200,
+      1206,
+      720
+    ],
+    "section": "连接",
+    "guitarEvents": 6,
+    "guitarSourceNotes": 30,
+    "status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "performanceMeasure": 35,
+    "sourceBarNumber": 5,
+    "pass": 2,
+    "screenshot": "IMG_7046.PNG",
+    "bounds": [
+      0,
+      740,
+      671,
+      1310
+    ],
+    "section": "主歌二",
+    "guitarEvents": 8,
+    "guitarSourceNotes": 13,
+    "status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "performanceMeasure": 36,
+    "sourceBarNumber": 6,
+    "pass": 2,
+    "screenshot": "IMG_7046.PNG",
+    "bounds": [
+      671,
+      740,
+      1206,
+      1310
+    ],
+    "section": "主歌二",
+    "guitarEvents": 8,
+    "guitarSourceNotes": 13,
+    "status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "performanceMeasure": 37,
+    "sourceBarNumber": 7,
+    "pass": 2,
+    "screenshot": "IMG_7046.PNG",
+    "bounds": [
+      0,
+      1320,
+      607,
+      1960
+    ],
+    "section": "主歌二",
+    "guitarEvents": 8,
+    "guitarSourceNotes": 10,
+    "status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "performanceMeasure": 38,
+    "sourceBarNumber": 8,
+    "pass": 2,
+    "screenshot": "IMG_7046.PNG",
+    "bounds": [
+      607,
+      1320,
+      1206,
+      1960
+    ],
+    "section": "主歌二",
+    "guitarEvents": 8,
+    "guitarSourceNotes": 13,
+    "status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "performanceMeasure": 39,
+    "sourceBarNumber": 9,
+    "pass": 2,
+    "screenshot": "IMG_7047.PNG",
+    "bounds": [
+      0,
+      150,
+      671,
+      755
+    ],
+    "section": "主歌二",
+    "guitarEvents": 8,
+    "guitarSourceNotes": 13,
+    "status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "performanceMeasure": 40,
+    "sourceBarNumber": 10,
+    "pass": 2,
+    "screenshot": "IMG_7047.PNG",
+    "bounds": [
+      671,
+      150,
+      1206,
+      755
+    ],
+    "section": "主歌二",
+    "guitarEvents": 8,
+    "guitarSourceNotes": 13,
+    "status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "performanceMeasure": 41,
+    "sourceBarNumber": 11,
+    "pass": 2,
+    "screenshot": "IMG_7047.PNG",
+    "bounds": [
+      0,
+      760,
+      610,
+      1345
+    ],
+    "section": "主歌二",
+    "guitarEvents": 8,
+    "guitarSourceNotes": 10,
+    "status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "performanceMeasure": 42,
+    "sourceBarNumber": 12,
+    "pass": 2,
+    "screenshot": "IMG_7047.PNG",
+    "bounds": [
+      610,
+      760,
+      1206,
+      1345
+    ],
+    "section": "主歌二",
+    "guitarEvents": 8,
+    "guitarSourceNotes": 13,
+    "status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "performanceMeasure": 43,
+    "sourceBarNumber": 13,
+    "pass": 2,
+    "screenshot": "IMG_7047.PNG",
+    "bounds": [
+      0,
+      1350,
+      685,
+      2000
+    ],
+    "section": "主歌二",
+    "guitarEvents": 8,
+    "guitarSourceNotes": 13,
+    "status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "performanceMeasure": 44,
+    "sourceBarNumber": 14,
+    "pass": 2,
+    "screenshot": "IMG_7047.PNG",
+    "bounds": [
+      685,
+      1350,
+      1206,
+      2000
+    ],
+    "section": "主歌二",
+    "guitarEvents": 8,
+    "guitarSourceNotes": 13,
+    "status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "performanceMeasure": 45,
+    "sourceBarNumber": 15,
+    "pass": 2,
+    "screenshot": "IMG_7048.PNG",
+    "bounds": [
+      0,
+      150,
+      619,
+      765
+    ],
+    "section": "主歌二",
+    "guitarEvents": 8,
+    "guitarSourceNotes": 10,
+    "status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "performanceMeasure": 46,
+    "sourceBarNumber": 16,
+    "pass": 2,
+    "screenshot": "IMG_7048.PNG",
+    "bounds": [
+      619,
+      150,
+      1206,
+      765
+    ],
+    "section": "主歌二",
+    "guitarEvents": 8,
+    "guitarSourceNotes": 13,
+    "status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "performanceMeasure": 47,
+    "sourceBarNumber": 17,
+    "pass": 2,
+    "screenshot": "IMG_7048.PNG",
+    "bounds": [
+      0,
+      780,
+      682,
+      1360
+    ],
+    "section": "主歌二",
+    "guitarEvents": 8,
+    "guitarSourceNotes": 13,
+    "status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "performanceMeasure": 48,
+    "sourceBarNumber": 18,
+    "pass": 2,
+    "screenshot": "IMG_7048.PNG",
+    "bounds": [
+      682,
+      780,
+      1206,
+      1360
+    ],
+    "section": "主歌二",
+    "guitarEvents": 8,
+    "guitarSourceNotes": 13,
+    "status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "performanceMeasure": 49,
+    "sourceBarNumber": 19,
+    "pass": 2,
+    "screenshot": "IMG_7048.PNG",
+    "bounds": [
+      0,
+      1370,
+      433,
+      1970
+    ],
+    "section": "主歌二",
+    "guitarEvents": 8,
+    "guitarSourceNotes": 10,
+    "status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "performanceMeasure": 50,
+    "sourceBarNumber": 20,
+    "pass": 2,
+    "screenshot": "IMG_7048.PNG",
+    "bounds": [
+      433,
+      1370,
+      817,
+      1970
+    ],
+    "section": "主歌二",
+    "guitarEvents": 8,
+    "guitarSourceNotes": 13,
+    "status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "performanceMeasure": 51,
+    "sourceBarNumber": 21,
+    "pass": 2,
+    "screenshot": "IMG_7048.PNG",
+    "bounds": [
+      817,
+      1370,
+      1206,
+      1970
+    ],
+    "section": "主歌二",
+    "guitarEvents": 8,
+    "guitarSourceNotes": 14,
+    "status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "performanceMeasure": 52,
+    "sourceBarNumber": 22,
+    "pass": 2,
+    "screenshot": "IMG_7049.PNG",
+    "bounds": [
+      0,
+      150,
+      508,
+      765
+    ],
+    "section": "主歌二",
+    "guitarEvents": 1,
+    "guitarSourceNotes": 6,
+    "status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "performanceMeasure": 53,
+    "sourceBarNumber": 23,
+    "pass": 2,
+    "screenshot": "IMG_7049.PNG",
+    "bounds": [
+      508,
+      150,
+      1206,
+      765
+    ],
+    "section": "副歌二",
+    "guitarEvents": 10,
+    "guitarSourceNotes": 39,
+    "status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "performanceMeasure": 54,
+    "sourceBarNumber": 24,
+    "pass": 2,
+    "screenshot": "IMG_7049.PNG",
+    "bounds": [
+      0,
+      770,
+      620,
+      1350
+    ],
+    "section": "副歌二",
+    "guitarEvents": 10,
+    "guitarSourceNotes": 41,
+    "status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "performanceMeasure": 55,
+    "sourceBarNumber": 25,
+    "pass": 2,
+    "screenshot": "IMG_7049.PNG",
+    "bounds": [
+      620,
+      770,
+      1206,
+      1350
+    ],
+    "section": "副歌二",
+    "guitarEvents": 10,
+    "guitarSourceNotes": 42,
+    "status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "performanceMeasure": 56,
+    "sourceBarNumber": 26,
+    "pass": 2,
+    "screenshot": "IMG_7049.PNG",
+    "bounds": [
+      0,
+      1360,
+      605,
+      1960
+    ],
+    "section": "副歌二",
+    "guitarEvents": 10,
+    "guitarSourceNotes": 40,
+    "status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "performanceMeasure": 57,
+    "sourceBarNumber": 27,
+    "pass": 2,
+    "screenshot": "IMG_7049.PNG",
+    "bounds": [
+      605,
+      1360,
+      1206,
+      1960
+    ],
+    "section": "副歌二",
+    "guitarEvents": 10,
+    "guitarSourceNotes": 39,
+    "status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "performanceMeasure": 58,
+    "sourceBarNumber": 28,
+    "pass": 2,
+    "screenshot": "IMG_7050.PNG",
+    "bounds": [
+      0,
+      160,
+      637,
+      770
+    ],
+    "section": "副歌二",
+    "guitarEvents": 10,
+    "guitarSourceNotes": 41,
+    "status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "performanceMeasure": 59,
+    "sourceBarNumber": 29,
+    "pass": 2,
+    "screenshot": "IMG_7050.PNG",
+    "bounds": [
+      637,
+      160,
+      1206,
+      770
+    ],
+    "section": "副歌二",
+    "guitarEvents": 10,
+    "guitarSourceNotes": 42,
+    "status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "performanceMeasure": 60,
+    "sourceBarNumber": 30,
+    "pass": 2,
+    "screenshot": "IMG_7050.PNG",
+    "bounds": [
+      0,
+      770,
+      723,
+      1330
+    ],
+    "section": "副歌二",
+    "guitarEvents": 10,
+    "guitarSourceNotes": 40,
+    "status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "performanceMeasure": 61,
+    "sourceBarNumber": 35,
+    "pass": 1,
+    "screenshot": "IMG_7050.PNG",
+    "bounds": [
+      723,
+      770,
+      1206,
+      1330
+    ],
+    "section": "间奏",
+    "guitarEvents": 8,
+    "guitarSourceNotes": 19,
+    "status": "visually_transcribed",
+    "notes": "拍弦"
+  },
+  {
+    "performanceMeasure": 62,
+    "sourceBarNumber": 36,
+    "pass": 1,
+    "screenshot": "IMG_7050.PNG",
+    "bounds": [
+      0,
+      1340,
+      411,
+      1880
+    ],
+    "section": "间奏",
+    "guitarEvents": 7,
+    "guitarSourceNotes": 8,
+    "status": "visually_transcribed",
+    "notes": "拍弦"
+  },
+  {
+    "performanceMeasure": 63,
+    "sourceBarNumber": 37,
+    "pass": 1,
+    "screenshot": "IMG_7050.PNG",
+    "bounds": [
+      411,
+      1340,
+      804,
+      1880
+    ],
+    "section": "间奏",
+    "guitarEvents": 8,
+    "guitarSourceNotes": 18,
+    "status": "visually_transcribed",
+    "notes": "拍弦"
+  },
+  {
+    "performanceMeasure": 64,
+    "sourceBarNumber": 38,
+    "pass": 1,
+    "screenshot": "IMG_7050.PNG",
+    "bounds": [
+      804,
+      1340,
+      1206,
+      1880
+    ],
+    "section": "间奏",
+    "guitarEvents": 7,
+    "guitarSourceNotes": 8,
+    "status": "visually_transcribed",
+    "notes": "拍弦"
+  },
+  {
+    "performanceMeasure": 65,
+    "sourceBarNumber": 39,
+    "pass": 1,
+    "screenshot": "IMG_7051.PNG",
+    "bounds": [
+      0,
+      150,
+      607,
+      630
+    ],
+    "section": "间奏",
+    "guitarEvents": 7,
+    "guitarSourceNotes": 17,
+    "status": "visually_transcribed",
+    "notes": "拍弦"
+  },
+  {
+    "performanceMeasure": 66,
+    "sourceBarNumber": 40,
+    "pass": 1,
+    "screenshot": "IMG_7051.PNG",
+    "bounds": [
+      607,
+      150,
+      1206,
+      630
+    ],
+    "section": "间奏",
+    "guitarEvents": 8,
+    "guitarSourceNotes": 11,
+    "status": "visually_transcribed",
+    "notes": "拍弦"
+  },
+  {
+    "performanceMeasure": 67,
+    "sourceBarNumber": 41,
+    "pass": 1,
+    "screenshot": "IMG_7051.PNG",
+    "bounds": [
+      0,
+      650,
+      682,
+      1250
+    ],
+    "section": "间奏",
+    "guitarEvents": 16,
+    "guitarSourceNotes": 17,
+    "status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "performanceMeasure": 68,
+    "sourceBarNumber": 42,
+    "pass": 1,
+    "screenshot": "IMG_7051.PNG",
+    "bounds": [
+      682,
+      650,
+      1206,
+      1250
+    ],
+    "section": "间奏",
+    "guitarEvents": 10,
+    "guitarSourceNotes": 42,
+    "status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "performanceMeasure": 69,
+    "sourceBarNumber": 43,
+    "pass": 1,
+    "screenshot": "IMG_7051.PNG",
+    "bounds": [
+      0,
+      1270,
+      640,
+      1850
+    ],
+    "section": "副歌三",
+    "guitarEvents": 10,
+    "guitarSourceNotes": 39,
+    "status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "performanceMeasure": 70,
+    "sourceBarNumber": 44,
+    "pass": 1,
+    "screenshot": "IMG_7051.PNG",
+    "bounds": [
+      640,
+      1270,
+      1206,
+      1850
+    ],
+    "section": "副歌三",
+    "guitarEvents": 10,
+    "guitarSourceNotes": 41,
+    "status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "performanceMeasure": 71,
+    "sourceBarNumber": 45,
+    "pass": 1,
+    "screenshot": "IMG_7052.PNG",
+    "bounds": [
+      0,
+      155,
+      603,
+      775
+    ],
+    "section": "副歌三",
+    "guitarEvents": 10,
+    "guitarSourceNotes": 42,
+    "status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "performanceMeasure": 72,
+    "sourceBarNumber": 46,
+    "pass": 1,
+    "screenshot": "IMG_7052.PNG",
+    "bounds": [
+      603,
+      155,
+      1206,
+      775
+    ],
+    "section": "副歌三",
+    "guitarEvents": 10,
+    "guitarSourceNotes": 40,
+    "status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "performanceMeasure": 73,
+    "sourceBarNumber": 47,
+    "pass": 1,
+    "screenshot": "IMG_7052.PNG",
+    "bounds": [
+      0,
+      780,
+      642,
+      1350
+    ],
+    "section": "副歌三",
+    "guitarEvents": 10,
+    "guitarSourceNotes": 39,
+    "status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "performanceMeasure": 74,
+    "sourceBarNumber": 48,
+    "pass": 1,
+    "screenshot": "IMG_7052.PNG",
+    "bounds": [
+      642,
+      780,
+      1206,
+      1350
+    ],
+    "section": "副歌三",
+    "guitarEvents": 10,
+    "guitarSourceNotes": 41,
+    "status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "performanceMeasure": 75,
+    "sourceBarNumber": 49,
+    "pass": 1,
+    "screenshot": "IMG_7052.PNG",
+    "bounds": [
+      0,
+      1360,
+      566,
+      1990
+    ],
+    "section": "副歌三",
+    "guitarEvents": 10,
+    "guitarSourceNotes": 42,
+    "status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "performanceMeasure": 76,
+    "sourceBarNumber": 50,
+    "pass": 1,
+    "screenshot": "IMG_7052.PNG",
+    "bounds": [
+      566,
+      1360,
+      1206,
+      1990
+    ],
+    "section": "副歌三",
+    "guitarEvents": 10,
+    "guitarSourceNotes": 40,
+    "status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "performanceMeasure": 77,
+    "sourceBarNumber": 51,
+    "pass": 1,
+    "screenshot": "IMG_7053.PNG",
+    "bounds": [
+      0,
+      150,
+      672,
+      765
+    ],
+    "section": "升调副歌",
+    "guitarEvents": 10,
+    "guitarSourceNotes": 38,
+    "status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "performanceMeasure": 78,
+    "sourceBarNumber": 52,
+    "pass": 1,
+    "screenshot": "IMG_7053.PNG",
+    "bounds": [
+      672,
+      150,
+      1206,
+      765
+    ],
+    "section": "升调副歌",
+    "guitarEvents": 10,
+    "guitarSourceNotes": 39,
+    "status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "performanceMeasure": 79,
+    "sourceBarNumber": 53,
+    "pass": 1,
+    "screenshot": "IMG_7053.PNG",
+    "bounds": [
+      0,
+      780,
+      606,
+      1370
+    ],
+    "section": "升调副歌",
+    "guitarEvents": 10,
+    "guitarSourceNotes": 42,
+    "status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "performanceMeasure": 80,
+    "sourceBarNumber": 54,
+    "pass": 1,
+    "screenshot": "IMG_7053.PNG",
+    "bounds": [
+      606,
+      780,
+      1206,
+      1370
+    ],
+    "section": "升调副歌",
+    "guitarEvents": 10,
+    "guitarSourceNotes": 40,
+    "status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "performanceMeasure": 81,
+    "sourceBarNumber": 55,
+    "pass": 1,
+    "screenshot": "IMG_7053.PNG",
+    "bounds": [
+      0,
+      1370,
+      653,
+      1960
+    ],
+    "section": "升调副歌",
+    "guitarEvents": 10,
+    "guitarSourceNotes": 39,
+    "status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "performanceMeasure": 82,
+    "sourceBarNumber": 56,
+    "pass": 1,
+    "screenshot": "IMG_7053.PNG",
+    "bounds": [
+      653,
+      1370,
+      1206,
+      1960
+    ],
+    "section": "升调副歌",
+    "guitarEvents": 10,
+    "guitarSourceNotes": 38,
+    "status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "performanceMeasure": 83,
+    "sourceBarNumber": 57,
+    "pass": 1,
+    "screenshot": "IMG_7054.PNG",
+    "bounds": [
+      0,
+      150,
+      529,
+      750
+    ],
+    "section": "升调副歌",
+    "guitarEvents": 10,
+    "guitarSourceNotes": 42,
+    "status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "performanceMeasure": 84,
+    "sourceBarNumber": 58,
+    "pass": 1,
+    "screenshot": "IMG_7054.PNG",
+    "bounds": [
+      529,
+      150,
+      1206,
+      750
+    ],
+    "section": "升调副歌",
+    "guitarEvents": 10,
+    "guitarSourceNotes": 40,
+    "status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "performanceMeasure": 85,
+    "sourceBarNumber": 59,
+    "pass": 1,
+    "screenshot": "IMG_7054.PNG",
+    "bounds": [
+      0,
+      760,
+      615,
+      1310
+    ],
+    "section": "尾声",
+    "guitarEvents": 10,
+    "guitarSourceNotes": 36,
+    "status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "performanceMeasure": 86,
+    "sourceBarNumber": 60,
+    "pass": 1,
+    "screenshot": "IMG_7054.PNG",
+    "bounds": [
+      615,
+      760,
+      1206,
+      1310
+    ],
+    "section": "尾声",
+    "guitarEvents": 10,
+    "guitarSourceNotes": 39,
+    "status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "performanceMeasure": 87,
+    "sourceBarNumber": 61,
+    "pass": 1,
+    "screenshot": "IMG_7054.PNG",
+    "bounds": [
+      0,
+      1320,
+      616,
+      1900
+    ],
+    "section": "尾声",
+    "guitarEvents": 10,
+    "guitarSourceNotes": 39,
+    "status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "performanceMeasure": 88,
+    "sourceBarNumber": 62,
+    "pass": 1,
+    "screenshot": "IMG_7054.PNG",
+    "bounds": [
+      616,
+      1320,
+      1206,
+      1900
+    ],
+    "section": "尾声",
+    "guitarEvents": 10,
+    "guitarSourceNotes": 39,
+    "status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "performanceMeasure": 89,
+    "sourceBarNumber": 63,
+    "pass": 1,
+    "screenshot": "IMG_7056.PNG",
+    "bounds": [
+      0,
+      300,
+      615,
+      925
+    ],
+    "section": "尾声",
+    "guitarEvents": 10,
+    "guitarSourceNotes": 36,
+    "status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "performanceMeasure": 90,
+    "sourceBarNumber": 64,
+    "pass": 1,
+    "screenshot": "IMG_7056.PNG",
+    "bounds": [
+      615,
+      300,
+      1206,
+      925
+    ],
+    "section": "尾声",
+    "guitarEvents": 10,
+    "guitarSourceNotes": 39,
+    "status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "performanceMeasure": 91,
+    "sourceBarNumber": 65,
+    "pass": 1,
+    "screenshot": "IMG_7056.PNG",
+    "bounds": [
+      0,
+      930,
+      455,
+      1530
+    ],
+    "section": "尾声",
+    "guitarEvents": 10,
+    "guitarSourceNotes": 39,
+    "status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "performanceMeasure": 92,
+    "sourceBarNumber": 66,
+    "pass": 1,
+    "screenshot": "IMG_7056.PNG",
+    "bounds": [
+      455,
+      930,
+      849,
+      1530
+    ],
+    "section": "尾声",
+    "guitarEvents": 10,
+    "guitarSourceNotes": 39,
+    "status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "performanceMeasure": 93,
+    "sourceBarNumber": 67,
+    "pass": 1,
+    "screenshot": "IMG_7056.PNG",
+    "bounds": [
+      849,
+      930,
+      1125,
+      1530
+    ],
+    "section": "尾声",
+    "guitarEvents": 1,
+    "guitarSourceNotes": 4,
+    "status": "visually_transcribed",
+    "notes": ""
+  }
+]

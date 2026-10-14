@@ -1,0 +1,233 @@
+[
+  {
+    "pitch": 40,
+    "expected": 82.4068892282175,
+    "detected": 81.5918770626371,
+    "centsBefore": -17.207305387077977,
+    "playbackRate": 1.009988888537945
+  },
+  {
+    "pitch": 42,
+    "expected": 92.4986056779086,
+    "detected": 92.70741182182483,
+    "centsBefore": 3.9036794165271007,
+    "playbackRate": 0.9977476866216745
+  },
+  {
+    "pitch": 43,
+    "expected": 97.99885899543733,
+    "detected": 98.20836972925827,
+    "centsBefore": 3.6972363989712416,
+    "playbackRate": 0.9978666712990093
+  },
+  {
+    "pitch": 44,
+    "expected": 103.82617439498628,
+    "detected": 104.03735939316408,
+    "centsBefore": 3.5177963025134993,
+    "playbackRate": 0.9979701042067041
+  },
+  {
+    "pitch": 45,
+    "expected": 110.0,
+    "detected": 109.60517159361324,
+    "centsBefore": -6.225182332636237,
+    "playbackRate": 1.0036022789859833
+  },
+  {
+    "pitch": 47,
+    "expected": 123.47082531403103,
+    "detected": 122.86710394189392,
+    "centsBefore": -8.48578285394723,
+    "playbackRate": 1.0049136127797285
+  },
+  {
+    "pitch": 48,
+    "expected": 130.8127826502993,
+    "detected": 130.1706116706637,
+    "centsBefore": -8.519703039711665,
+    "playbackRate": 1.00493330231297
+  },
+  {
+    "pitch": 49,
+    "expected": 138.59131548843604,
+    "detected": 137.90786360442982,
+    "centsBefore": -8.558561266791429,
+    "playbackRate": 1.0049558586881355
+  },
+  {
+    "pitch": 50,
+    "expected": 146.8323839587038,
+    "detected": 145.96193409275114,
+    "centsBefore": -10.29362110276787,
+    "playbackRate": 1.005963540229602
+  },
+  {
+    "pitch": 51,
+    "expected": 155.56349186104046,
+    "detected": 153.50729650281866,
+    "centsBefore": -23.035550880469085,
+    "playbackRate": 1.0133947727897354
+  },
+  {
+    "pitch": 52,
+    "expected": 164.81377845643496,
+    "detected": 162.85579905790357,
+    "centsBefore": -20.69011699774821,
+    "playbackRate": 1.0120227797220487
+  },
+  {
+    "pitch": 53,
+    "expected": 174.61411571650194,
+    "detected": 172.7580860879525,
+    "centsBefore": -18.50034199715975,
+    "playbackRate": 1.0107435181216613
+  },
+  {
+    "pitch": 54,
+    "expected": 184.9972113558172,
+    "detected": 183.2316175976019,
+    "centsBefore": -16.602064887780905,
+    "playbackRate": 1.009635857508461
+  },
+  {
+    "pitch": 55,
+    "expected": 195.99771799087463,
+    "detected": 196.3968113281136,
+    "centsBefore": 3.5215792310948286,
+    "playbackRate": 0.9979679235393887
+  },
+  {
+    "pitch": 56,
+    "expected": 207.65234878997256,
+    "detected": 208.4540529171661,
+    "centsBefore": 6.6710783298267,
+    "playbackRate": 0.9961540487413209
+  },
+  {
+    "pitch": 57,
+    "expected": 220.0,
+    "detected": 220.83826402216295,
+    "centsBefore": 6.583970062645602,
+    "playbackRate": 0.9962041721987145
+  },
+  {
+    "pitch": 58,
+    "expected": 233.08188075904496,
+    "detected": 233.95866115588785,
+    "centsBefore": 6.500137455047307,
+    "playbackRate": 0.9962524131720061
+  },
+  {
+    "pitch": 59,
+    "expected": 246.94165062806206,
+    "detected": 246.9254587771297,
+    "centsBefore": -0.11351994545779658,
+    "playbackRate": 1.0000655738416466
+  },
+  {
+    "pitch": 60,
+    "expected": 261.6255653005986,
+    "detected": 261.60097603244253,
+    "centsBefore": -0.16272025572834387,
+    "playbackRate": 1.000093995322682
+  },
+  {
+    "pitch": 61,
+    "expected": 277.1826309768721,
+    "detected": 277.1535001124577,
+    "centsBefore": -0.18195582633303892,
+    "playbackRate": 1.0001051073300626
+  },
+  {
+    "pitch": 62,
+    "expected": 293.6647679174076,
+    "detected": 294.56326631585324,
+    "centsBefore": 5.288806855996275,
+    "playbackRate": 0.9969497269307089
+  },
+  {
+    "pitch": 63,
+    "expected": 311.1269837220809,
+    "detected": 312.0769048178165,
+    "centsBefore": 5.277685356970621,
+    "playbackRate": 0.9969561313859796
+  },
+  {
+    "pitch": 64,
+    "expected": 329.6275569128699,
+    "detected": 330.6342384863022,
+    "centsBefore": 5.279126489190479,
+    "playbackRate": 0.9969553014895219
+  },
+  {
+    "pitch": 65,
+    "expected": 349.2282314330039,
+    "detected": 350.2970803398133,
+    "centsBefore": 5.290527818458733,
+    "playbackRate": 0.996948735896478
+  },
+  {
+    "pitch": 66,
+    "expected": 369.9944227116344,
+    "detected": 371.13013272310974,
+    "centsBefore": 5.3059404559524666,
+    "playbackRate": 0.9969398604119201
+  },
+  {
+    "pitch": 67,
+    "expected": 391.99543598174927,
+    "detected": 393.2709492486052,
+    "centsBefore": 5.624114265378909,
+    "playbackRate": 0.9967566552543661
+  },
+  {
+    "pitch": 68,
+    "expected": 415.3046975799451,
+    "detected": 416.6873793880649,
+    "centsBefore": 5.754256789853575,
+    "playbackRate": 0.9966817286135463
+  },
+  {
+    "pitch": 69,
+    "expected": 440.0,
+    "detected": 441.5212539130621,
+    "centsBefore": 5.975236953834761,
+    "playbackRate": 0.9965545171391418
+  },
+  {
+    "pitch": 70,
+    "expected": 466.1637615180899,
+    "detected": 467.85536023904257,
+    "centsBefore": 6.2708705567430565,
+    "playbackRate": 0.9963843553698127
+  },
+  {
+    "pitch": 71,
+    "expected": 493.8833012561241,
+    "detected": 495.769105400204,
+    "centsBefore": 6.597816109220635,
+    "playbackRate": 0.9961962047986883
+  },
+  {
+    "pitch": 73,
+    "expected": 554.3652619537442,
+    "detected": 556.7330245056919,
+    "centsBefore": 7.378568403967363,
+    "playbackRate": 0.9957470413147307
+  },
+  {
+    "pitch": 74,
+    "expected": 587.3295358348151,
+    "detected": 589.8406699810146,
+    "centsBefore": 7.386132453012215,
+    "playbackRate": 0.9957426907400599
+  },
+  {
+    "pitch": 76,
+    "expected": 659.2551138257398,
+    "detected": 662.084130975478,
+    "centsBefore": 7.413233683849372,
+    "playbackRate": 0.9957271032224105
+  }
+]

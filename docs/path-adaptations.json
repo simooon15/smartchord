@@ -1,0 +1,9 @@
+{
+  "buildSource": "sources/drive-handoff/SOURCE_SCREENSHOTS",
+  "activeInputsRebased": [
+    "work/skill-check/full-score.json",
+    "work/skill-check/validation-report.json",
+    "work/skill-check/full-source.json"
+  ],
+  "archivedSources": "unchanged"
+}
